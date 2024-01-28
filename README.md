@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashutosh Singh
 
-## 🚀 Aspiring Developer | ✨ Web Designer | 👨🏻‍💻 Web Developer | 🎥 Editor (Video & Photo)
+## 🚀 Aspiring Developer | ✨ Web Designer | 👨🏻‍💻 Web Developer | 🎥 Editor
 
 A passion of become a software developer i dedication to Learning technology, Computer Science and programming language. Dynamic computer science graduate with a passion for technology, strong programming skills, and a proven aptitude for problem-solving and teamwork. Eager to apply my knowledge in a challenging and dynamic work environment.
 
@@ -35,8 +35,7 @@ But, Mostly focus on web designing because i give more priority to my creativity
 - **Tech Stack:** HTML, CSS, JavaScript (Frameworks)
 - **Objective:** Sharing my journey through an interactive and accessible platform.
 
-
-### 🎓 ACHIEVEMENTS & Certifications
+### 🎓 Achievements & Certifications
 
 - Fundamental AI Concepts - MicroSoft
 - FDP on Blockchain Solution Architect - E&ICT Academy, NIT Patna
@@ -58,7 +57,7 @@ But, Mostly focus on web designing because i give more priority to my creativity
 
 ### 🤝 Soft Skills
 
-- Think Creativity
+- Think Creativity ✨
 - Strong Decision-Making 🤔
 - Effective Communication 🗣️
 - Leadership & Teamwork 🤝
@@ -76,6 +75,7 @@ But, Mostly focus on web designing because i give more priority to my creativity
 - Video Editing & Photo Editing 🎥
 - Designing (Web, Graphics, Logo, Poster, etc.) ✨
 - Content Creating 🪄
+- Listening Music 🎼
 
 ### 📬 Contact Information
 
@@ -83,7 +83,7 @@ But, Mostly focus on web designing because i give more priority to my creativity
 - 📍 Location: Patna, Bihar, India
 - 📱 Phone: +91 6209950346
 
-[![LinkedIn](<https://www.linkedin.com/in/ashutoshkumaraashu/>)](#)
+📫 LinkedIn <a href="https://www.linkedin.com/in/ashutoshkumaraashu/"><b>Ashutosh Singh(aashu)</b></a><br/>
 [![Twitter](<https://twitter.com/codeaashu>)](#)
 [![Instagram](<https://www.instagram.com/aashu_the.rajput/>)](#)
 [![YouTube](<https://www.youtube.com/@codeaashu>)](#)
