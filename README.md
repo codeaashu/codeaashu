@@ -15,7 +15,7 @@ But, Mostly focus on web designing because i give more priority to my creativity
 
 ### 💡 Projects Experience
 
-#### aashu.info | Complete AI Tools Platform (Under Development - 2024)
+#### AASHU.INFO | Complete AI Tools Platform (Under Development - 2024)
 - **Key Responsibilities:** It is a free site to help you find the best AI tools and software to make your work and life more efficient and productive.
 - **Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP, Bootstrap, React, Figma & more.
 - **Objective:** aashu.info is a AI CENTER platform dedicated to providing a comprehensive list of AI tools to assist individuals and businesses in finding the most suitable AI tool.
