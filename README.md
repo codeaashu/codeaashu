@@ -97,23 +97,26 @@ But, Mostly focus on web designing because i give more priority to my creativity
 <a href="https://www.youtube.com/@codeaashu"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
+<a href="https://in.pinterest.com/codeaashu/"> 
+    <img src="https://img.shields.io/badge/Pinterest-100000?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
+</a>
 <a href="https://www.github.com/codeaashu"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a>
-<a href="https://www.quora.com/profile/Ashutosh-Singh-7553"> 
-    <img src="https://img.shields.io/badge/Quora-100000?style=for-the-badge&logo=quora&logoColor=white" title="Quora"  alt="Quora"/>
-</a>
-<a href="https://dev.to/codeaashu"> 
-    <img src="https://img.shields.io/badge/Dev-100000?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/codeaashu/"> 
     <img src="https://img.shields.io/badge/Microsoft-100000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a>
-<a href="https://t.me/codeaashu"> 
-    <img src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"  alt="Telegram"/>
+<a href="https://dev.to/codeaashu"> 
+    <img src="https://img.shields.io/badge/Dev-100000?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
 </a>
 <a href="https://www.hackerrank.com/codeaashu"> 
     <img src="https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank"  alt="HackerRank"/>
+</a>
+<a href="https://t.me/codeaashu"> 
+    <img src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"  alt="Telegram"/>
+</a>
+<a href="https://www.quora.com/profile/Ashutosh-Singh-7553"> 
+    <img src="https://img.shields.io/badge/Quora-100000?style=for-the-badge&logo=quora&logoColor=white" title="Quora"  alt="Quora"/>
 </a>
 
 <br />
