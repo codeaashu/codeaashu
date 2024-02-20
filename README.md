@@ -2,7 +2,7 @@
 
 ## ✨ Web Designer | 👨🏻‍💻 Web Developer | 🎥 Pro Editor | 🚀 YT Marketing Professional
 
-A passion of become a software developer i dedication to Learning technology, Computer Science and programming language. Dynamic computer science graduate with a passion for technology, strong programming skills, and a proven aptitude for problem-solving and teamwork. Eager to apply my knowledge in a challenging and dynamic work environment.
+A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Dynamic computer science graduate with a passion for technology, strong programming skills, and a proven aptitude for problem-solving and teamwork. Eager to apply my knowledge in a challenging and dynamic work environment.
 
 But, Mostly focus on web designing because i give more priority to my creativity or interest and make the project which is Stunning & Responsive with awesome cool 3D design using attractive theme.
 
