@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ashutosh Singh
 
-## ✨ Web Designer | 👨🏻‍💻 Web Developer | 🎥 Pro Editor | 🚀 YT Marketing Professional
+## 🔗 Web Designer | 🔗 Web Developer | 🔗 UI Designer
 
 A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Eager to implement my strong programming skills, a proven aptitude for problem-solving, teamwork and apply my knowledge in a challenging and dynamic work environment to solve real world problem.
 
-But, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and build .
+🎯 Mostly, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
 
 ### 📌 About Me
 
@@ -46,13 +46,13 @@ But, i mostly focus on Web Designing - Graphics Designing because i give more pr
 ### 🔧 Hard Skills
 
 - Web Development (HTML, CSS, JS, PHP, MySQL, ReactJS, NodeJS, Express, MongoDB, Firebase, etc.) 🧑🏻‍💻
-- Web Designing (Figma, Adobe XD, Adove Photoshop, Illustrator, etc.) ✨
+- Web Designing (Figma, Adobe XD, Adove Photoshop, Illustrator, Webflow, Framer etc.) ✨
 - Python Language 🐍
 - C-Language 📝
 - C++ 🧠
 - Core Java with DSA ☕
 - Git and GitHub 🌐
-- SQL 🗃️
+- SQL - DBMS 🗃️
 - AI Tools Proficiency (Prompt Engineering) 🤖
 
 ### 🤝 Soft Skills
