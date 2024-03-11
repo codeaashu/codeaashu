@@ -2,14 +2,14 @@
 
 ## ✨ Web Designer | 👨🏻‍💻 Web Developer | 🎥 Pro Editor | 🚀 YT Marketing Professional
 
-A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Dynamic computer science graduate with a passion for technology, strong programming skills, and a proven aptitude for problem-solving and teamwork. Eager to apply my knowledge in a challenging and dynamic work environment.
+A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Eager to implement my strong programming skills, a proven aptitude for problem-solving, teamwork and apply my knowledge in a challenging and dynamic work environment to solve real world problem.
 
-But, Mostly focus on web designing because i give more priority to my creativity or interest and make the project which is Stunning & Responsive with awesome cool 3D design using attractive theme.
+But, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and build .
 
 ### 📌 About Me
 
-- 💼 Aspiring Developer & Designer
-- 🎓 BCA from Cimage Professional College (AKU University)
+- 💼 Aspiring Developer & Designer ( Web - Graphics )
+- 🎓 2nd Year BCA student of Cimage Professional College under in (AKU University)
 - ✨ A Creator and Learner who likes to share her learnings and creativity.
 
 
