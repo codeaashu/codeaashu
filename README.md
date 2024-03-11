@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashutosh Singh
 
-## 🔗 Web Designer | 🔗 Web Developer | 🔗 UI Designer
+## 🔗 Web Developer | 🔗 Web Designer | 🔗 UI Designer
 
 A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Eager to implement my strong programming skills, a proven aptitude for problem-solving, teamwork and apply my knowledge in a challenging and dynamic work environment to solve real world problem.
 
