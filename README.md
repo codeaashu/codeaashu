@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashutosh Singh
+# 👋 Hi, I'm Ashutosh Kumar
 
 ## 🔗 Web Developer | 🔗 Web Designer | 🔗 UI Designer
 
