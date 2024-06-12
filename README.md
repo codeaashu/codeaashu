@@ -38,7 +38,10 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 
 ### 🎓 Achievements & Certifications
 
-- Gained 57 Badges & 13 trophies on <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"></a> 
+- Gained 57 Badges & 13 trophies on <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
+    <img src="https://img.shields.io/badge/Microsoft-100000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
+</a>
+
 - FDP on Blockchain Solution Architect - E&ICT Academy, NIT Patna
 - Ethical Hacking - NPTEL(Swayam) By - (INDIAN INSTITUTES OF TECHNOLOGY KHARAGPUR)
 - SQL (Basic) - HackerRank 📜
