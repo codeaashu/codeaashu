@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashutosh Kumar
-<div align"center"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p> </div>
+
 ## 🔗 Web Developer | 🔗 Web Designer | 🔗 UI Designer
 
 I am a proficient Web Developer & Designer who specialise in crafting captivating landing pages and websites. My commitment to user-centric design and effective collaboration enables me to create seamless and dynamic digital experiences. I can also level up your Brand presence with my design expertise. & Most importantly, I'm a designer you can rely on for all your design needs. 🎯 Mostly, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
@@ -89,7 +89,7 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/codeaashu"> 
+<a href="https://twitter.com/warrior_aashuu"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
 <a href="https://www.instagram.com/aashu_the.rajput/"> 
@@ -104,7 +104,7 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 <a href="https://www.github.com/codeaashu"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
-<a href="https://learn.microsoft.com/en-gb/users/codeaashu/"> 
+<a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-100000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a>
 <a href="https://dev.to/codeaashu"> 
@@ -125,6 +125,8 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
