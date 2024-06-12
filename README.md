@@ -1,14 +1,7 @@
-<p align=”center”>
-<img width="1834" alt="Make your README" src="https://github.com/md-irfandev/md-irfandev/assets/143010252/43cf206e-e38b-4b6a-88fe-ac32a98fd1ae">
-
-
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-irfandev&label=Profile%20views&color=0e75b6&style=flat" alt="md-irfandev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@itsmdirfan_tw" target="blank"><img src="https://img.shields.io/twitter/follow/@itsmdirfan_tw?logo=twitter&style=for-the-badge" alt="@itsmdirfan_tw" /></a> </p>
 # 👋 Hi, I'm Ashutosh Kumar
 
 ## 🔗 Web Developer | 🔗 Web Designer | 🔗 UI Designer
