@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
+<div align"center" <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p> </div>
 # 👋 Hi, I'm Ashutosh Kumar
 
 ## 🔗 Web Developer | 🔗 Web Designer | 🔗 UI Designer
