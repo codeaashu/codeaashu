@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ashutosh Kumar
-<div align"center" <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p> </div>
+<div align"center"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p> </div>
 ## 🔗 Web Developer | 🔗 Web Designer | 🔗 UI Designer
 
 I am a proficient Web Developer & Designer who specialise in crafting captivating landing pages and websites. My commitment to user-centric design and effective collaboration enables me to create seamless and dynamic digital experiences. I can also level up your Brand presence with my design expertise. & Most importantly, I'm a designer you can rely on for all your design needs. 🎯 Mostly, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
