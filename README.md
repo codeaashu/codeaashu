@@ -133,7 +133,7 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
-### **Thanks for checking out my GitHub Profile!** 🙏
+### **Thanks for checking out my GitHub Profile!** 🙏 
 
 <br />
 
