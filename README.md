@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Ashutosh Kumar</h1>
+<h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 
 <p align="center">
 	<h2 align="center">Web Developer 🌟 Web Designer 🌟 UI Designer</h2>
