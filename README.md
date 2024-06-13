@@ -127,20 +127,11 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 <h3 align="left">🔥 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=dracula" alt="codeaashu" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/monalika" target="blank"><img src="https://img.shields.io/twitter/follow/monalika?logo=twitter&style=for-the-badge" alt="monalika" /></a> </p>
- -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeaashu&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalikapatnaik&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="monalikapatnaik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalikapatnaik&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="monalikapatnaik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&theme=radical&disable_animations=true" alt="monalikapatnaik" /></p>
-
-
-
-<!-- <br clear="both"> -->
-
-![snake gif](https://github.com/MonalikaPatnaik/MonalikaPatnaik/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
