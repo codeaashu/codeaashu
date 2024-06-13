@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Ashutosh Kumar</h1>
 
 <p align="center">
-	<h2 align="center">🔗 Web Developer 🔗 Web Designer 🔗 UI Designer</h2>
+	<h2 align="center">Web Developer ⚝ Web Designer ⚝ UI Designer</h2>
 </p>
 
 <div align="center">
