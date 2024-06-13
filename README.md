@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codeaashu&"  />
+</div>
+
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 
 <p align="center">
