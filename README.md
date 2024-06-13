@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![codeaashu's Profile Views](https://komarev.com/ghpvc/?username=codeaashu&label=PROFILE+VIEWS&style=for-the-badge&color=#01d3ca)
+![codeaashu's Profile Views](https://komarev.com/ghpvc/?username=codeaashu&label=PROFILE+VIEWS&style=for-the-badge&color=028B89)
 
 </div>
 
