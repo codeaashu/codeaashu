@@ -1,11 +1,9 @@
-<div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
-</div>
-
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 
 <p align="center">
 	<h2 align="center">Web Developer 🌟 Web Designer 🌟 UI Designer</h2>
+	
+	<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 </p>
 
 I am a proficient Web Developer & Designer who specialise in crafting captivating landing pages and websites. My commitment to user-centric design and effective collaboration enables me to create seamless and dynamic digital experiences. I can also level up your Brand presence with my design expertise. & Most importantly, I'm a designer you can rely on for all your design needs. 🎯 Mostly, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
