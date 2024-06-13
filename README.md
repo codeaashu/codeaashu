@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I am Ashutosh Kumar</h1>
 
-<br/>
 <p align="center">
 	<h2 align="center">🔗 Web Developer 🔗 Web Designer 🔗 UI Designer</h2>
 </p>
 
-
 <div align="center">
 
-![codeaashu's Profile Views](https://komarev.com/ghpvc/?username=codeaashu&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+![codeaashu's Profile Views](https://komarev.com/ghpvc/?username=codeaashu&label=PROFILE+VIEWS&style=for-the-badge&color=#01d3ca)
 
 </div>
 
