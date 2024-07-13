@@ -4,15 +4,15 @@
 	<h2 align="center">Web Developer 🌟 Web Designer 🌟 UI Designer</h2>
 </p>
 
-I am a proficient Web Developer & Designer who specialise in crafting captivating landing pages and websites. My commitment to user-centric design and effective collaboration enables me to create seamless and dynamic digital experiences. I can also level up your Brand presence with my design expertise. & Most importantly, I'm a designer you can rely on for all your design needs. 🎯 Mostly, i mostly focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
+I am a proficient Web Developer & Designer who specialise in crafting captivating landing pages and websites. My commitment to user-centric design and effective collaboration enables me to create seamless and dynamic digital experiences. I can also level up your Brand presence with my design expertise. & Most importantly, I'm a designer you can rely on for all your design needs. 🎯 Mostly, i focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
 
-& also A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Eager to implement my strong programming skills, a proven aptitude for problem-solving, teamwork and apply my knowledge in a challenging and dynamic work environment to solve real world problem.
+& apart from that A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Eager to implement my strong programming skills, a proven aptitude for problem-solving, teamwork and apply my knowledge in a challenging and dynamic work environment to solve real world problem.
 
 
 ### 📌 About Me
 
+- 🎓 3rd Year BCA student of Cimage Professional College under in (AKU University)
 - 💼 Aspiring Developer & Designer ( Web - Graphics )
-- 🎓 2nd Year BCA student of Cimage Professional College under in (AKU University)
 - ✨ A Creator and Learner who likes to share her learnings and creativity.
 
 
