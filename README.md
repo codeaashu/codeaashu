@@ -94,10 +94,10 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 <a href="https://twitter.com/warrior_aashuu"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://www.instagram.com/aashu_the.rajput/"> 
+<a href="https://www.instagram.com/warrior_aashuu/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/@codeaashu"> 
+<a href="https://www.youtube.com/@creativityofaashu"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <a href="https://in.pinterest.com/codeaashu/"> 
@@ -115,11 +115,8 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 <a href="https://www.hackerrank.com/codeaashu"> 
     <img src="https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank"  alt="HackerRank"/>
 </a>
-<a href="https://t.me/codeaashu"> 
+<a href="https://t.me/warrior_aashuu"> 
     <img src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"  alt="Telegram"/>
-</a>
-<a href="https://www.quora.com/profile/Ashutosh-Singh-7553"> 
-    <img src="https://img.shields.io/badge/Quora-100000?style=for-the-badge&logo=quora&logoColor=white" title="Quora"  alt="Quora"/>
 </a>
 
 <br />
