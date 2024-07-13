@@ -4,9 +4,9 @@
 	<h2 align="center">Web Developer 🌟 Web Designer 🌟 UI Designer</h2>
 </p>
 
-I am a proficient Web Developer & Designer who specialise in crafting captivating landing pages and websites. My commitment to user-centric design and effective collaboration enables me to create seamless and dynamic digital experiences. I can also level up your Brand presence with my design expertise. & Most importantly, I'm a designer you can rely on for all your design needs. 🎯 Mostly, i focus on Web Designing - Graphics Designing because i give more priority to my creativity or interest and building websites that captivate your target audience actually get u clients.
+I am a skilled Web Developer & Design specializing in crafting captivating landing pages and websites. My focus on user-centric design and effective collaboration allows me to create seamless and dynamic digital experiences. I can also elevate your brand presence with my design expertise. Most importantly, I'm a reliable designer you can rely on for all your design needs.
 
-& apart from that A passion of become a Software Developer i dedication to Learning technology, Computer Science and programming language. Eager to implement my strong programming skills, a proven aptitude for problem-solving, teamwork and apply my knowledge in a challenging and dynamic work environment to solve real world problem.
+& apart from that, I'm a dedicated 3rd year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, Mostly, I focus on Web design - Graphics design because I give more priority to my creativity or interest and building websites that captivate my target audience and get clients.
 
 
 ### 📌 About Me
