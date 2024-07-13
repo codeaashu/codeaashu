@@ -115,9 +115,6 @@ I am a proficient Web Developer & Designer who specialise in crafting captivatin
 <a href="https://www.hackerrank.com/codeaashu"> 
     <img src="https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank"  alt="HackerRank"/>
 </a>
-<a href="https://t.me/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"  alt="Telegram"/>
-</a>
 
 <br />
 
