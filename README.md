@@ -53,6 +53,14 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=radical&disable_animations=true" alt="codeaashu" /></p>
+
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+
+
 </div>
 
 ### 📬 Contact Information
