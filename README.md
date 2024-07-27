@@ -58,7 +58,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
-### **Thanks for checking out my GitHub Profile!** 🙏 
+### **Thanks for checking out my GitHub Profile!**  
 
 <br />
 
@@ -67,9 +67,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 ![](https://img.shields.io/github/followers/codeaashu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
- ## 💰 You can help me by Donating
-
-<br/>
+ ## 💌 Sponser
  
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeaashu)
 
