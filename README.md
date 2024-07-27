@@ -17,11 +17,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 </div>
 
-### 📬 Contact Information
-
-- 📧 Email: hellow.ashutosh@gmail.com
-- 📍 Location: Patna, Bihar, India
-- 📱 Phone: +91 6209950346
+<div align="center">
 
 ## 🌏 **CONNECT WITH ME**
 
@@ -57,15 +53,17 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&theme=radical&disable_animations=true" alt="codeaashu" /></p>
+</div>
+
+### 📬 Contact Information
+
+- 📧 Email: hellow.ashutosh@gmail.com
+- 📍 Location: Patna, Bihar, India
+- 📱 Phone: +91 6209950346
+
+<div align="center">
 
 ### **Thanks for checking out my GitHub Profile!**  
-
-<br />
-
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-![](https://img.shields.io/github/followers/codeaashu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
 
  ## 💌 Sponser
  
