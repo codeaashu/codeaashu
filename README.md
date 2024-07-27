@@ -46,9 +46,6 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-100000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a>
-<a href="https://dev.to/codeaashu"> 
-    <img src="https://img.shields.io/badge/Dev-100000?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
-</a>
 <a href="https://www.hackerrank.com/codeaashu"> 
     <img src="https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank"  alt="HackerRank"/>
 </a>
