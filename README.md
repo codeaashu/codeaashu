@@ -48,7 +48,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <h3 align="left">🔥 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=radical" alt="codeaashu" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeaashu&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="codeaashu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeaashu&show_icons=true&border=true&border_color=00ACC1&locale=en&layout=compact&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
