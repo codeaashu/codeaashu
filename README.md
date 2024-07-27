@@ -15,72 +15,7 @@ I'm a proficient Web Developer & Designer specializing in crafting captivating l
 & apart from that, 🎓 I'm a dedicated 3rd year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, Mostly, I focus on Web design - Graphics design because I give more priority to my creativity or interest and building websites that captivate my target audience and get clients. 
 Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowledge, and creativity.
 
-
-### 💡 Projects Experience
 </div>
-
-#### AASHU.INFO | Complete AI Tools Platform (Under Development - 2024)
-
-- **Key Responsibilities:** It is a free site to help you find the best AI tools and software to make your work and life more efficient and productive.
-- **Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP, Bootstrap, React, Figma & more.
- **Objective:** aashu.info is a AI CENTER platform dedicated to providing a comprehensive list of AI tools to assist individuals and businesses in finding the most suitable AI tool.
-
-#### Web Design & Development | Responsive & Stunning Web Project (Completed - 2023 & Ongoing)
-- **Key Responsibilities:** Designing an GYM, TRAVEL, ECOMMERCE, EDUCATION, HEALTH CARE, HOTEL, FASHION, etc. 
-- **Tech Stack:** HTML, CSS, JS, PHP, MySQL, ReactJS, NodeJS, Express, MongoDB, Firebase, Figma, Adobe XD, Photoshop, Illustrator, etc.
-- **Objective:** Responsive web design strategies to ensure your Business website stands out and attracts maximum attention and visually appealing landing page that captivates your audience and that looks great on any device.
-
-#### FaceSense | Attendance Management System (Completed - 2022)
-- **Key Responsibilities:** Developing an attendance system using facial recognition
-- **Tech Stack:** Python, OpenCV, Pandas, SQLite
-- **Objective:** Automates attendance through facial recognition, verifying, and recording employee attendance seamlessly.
-
-#### ProfileHub | Personal Portfolio (Completed - 2023)
-- **Key Responsibilities:** Showcasing journey, skills, projects, and personality
-- **Tech Stack:** HTML, CSS, JavaScript (Frameworks)
-- **Objective:** Sharing my journey through an interactive and accessible platform.
-
-### 🎓 Achievements & Certifications
-
-- Gained 57 Badges & 13 trophies on Microsoft on Generative AI OR Azure Sevices
-- FDP on Blockchain Solution Architect - E&ICT Academy, NIT Patna
-- Ethical Hacking - NPTEL(Swayam) By - (INDIAN INSTITUTES OF TECHNOLOGY KHARAGPUR)
-- SQL (Basic) - HackerRank 📜
-- Java (Basic) - HackerRank 📜
-
-### 🔧 Hard Skills
-
-- Web Development (HTML, CSS, JS, PHP, MySQL, ReactJS, NodeJS, Express, MongoDB, Firebase, etc.) 🧑🏻‍💻
-- Web Designing (Figma, Adobe XD, Adove Photoshop, Illustrator, Webflow, Framer etc.) ✨
-- Python Language 🐍
-- C-Language 📝
-- C++ 🧠
-- Core Java with DSA ☕
-- Git and GitHub 🌐
-- SQL - DBMS 🗃️
-- AI Tools Proficiency (Prompt Engineering) 🤖
-
-### 🤝 Soft Skills
-
-- Think Creativity ✨
-- Strong Decision-Making 🤔
-- Effective Communication 🗣️
-- Leadership & Teamwork 🤝
-- Problem Solving & Analytical Thinlking💡
-
-### 📚 Education Background
-
-- Cimage Professional College (AKU University) - BCA (Bachelor's in Computer Application) 🎓
-- +2 HIGH SCHOOL, KAURA, ARA(BHOJPUR) - Intermediate (Science) 🎓
-- R S C D S VIDYA MANDIR SINGHI ARA(BHOJPUR) - Secondary School 🎓
-
-### 🌟 Extracurricular Activities
-
-- Entrepreneurship & Innovation 💼
-- Video Editing & Photo Editing 🎥
-- Designing (Web, Graphics, Logo, Poster, etc.) ✨
-- Content Creating 🪄
-- Listening Music 🎼
 
 ### 📬 Contact Information
 
