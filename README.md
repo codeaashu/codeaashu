@@ -6,8 +6,8 @@
 	<h2 align="center">Full Stack Developer 🌟 Designer " Web - Graphics - UI "</h2>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
-<hr>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
+
 ### 📌 About Me
 
 I'm a proficient Web Developer & Designer specializing in crafting captivating landing pages and websites. My focus on user-centric design and effective collaboration allows me to create seamless and dynamic digital experiences. I can also elevate your brand presence with my design expertise. Most importantly, I'm a reliable designer you can rely on for all your design needs.
