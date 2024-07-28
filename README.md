@@ -1,6 +1,7 @@
 <div align="center">
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
+<a href="#"><img src="assets/technologist.png" width="150"></a
 <p align="center">
 	<h2 align="center">Full Stack Developer 🌟 Designer ➤ Web - Graphics - UI</h2>
 </p>
