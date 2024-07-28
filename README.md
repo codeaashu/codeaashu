@@ -1,11 +1,11 @@
 <div align="center">
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
-<a href="#"><img src="assets/technologist.png" width="150"></a
+<a href="#"><img src="assets/technologist.png" width="150"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
 	<h2 align="center">Full Stack Developer 🌟 Designer ➤ Web - Graphics - UI</h2>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
 
