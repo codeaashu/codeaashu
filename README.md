@@ -28,25 +28,28 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-004d4d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://x.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-004d4d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
 <a href="https://www.instagram.com/warrior_aashuu/"> 
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-004d4d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/@creativityofaashu"> 
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+    <img src="https://img.shields.io/badge/YouTube-004d4d?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <a href="https://in.pinterest.com/codeaashu/"> 
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
-</a>
-<a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
-    <img src="https://img.shields.io/badge/Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
+    <img src="https://img.shields.io/badge/Pinterest-004d4d?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
 </a>
 <a href="https://hashnode.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
+    <img src="https://img.shields.io/badge/hashnode-004d4d?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
+</a>
+<a href="https://dev.to/codeaashu"> 
+    <img src="https://img.shields.io/badge/Dev-004d4d?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
+</a>
+<a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
+    <img src="https://img.shields.io/badge/Microsoft-004d4d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a>
 
 <br />
