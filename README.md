@@ -56,11 +56,9 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
-</a>
+</a> <hr>
 
-<br />
-
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=radical" alt="codeaashu" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&border=true&border_color=00ACC1&title_color=00ACC1&amp&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" alt="codeaashu" /></a> </p>
