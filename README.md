@@ -2,7 +2,7 @@
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 <p align="center">
-	<h2 align="center">Full Stack Developer 🌟 Designer ￫ Web - Graphics - UI</h2>
+	<h2 align="center">Full Stack Developer 🌟 Designer ➢ Web - Graphics - UI</h2>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 
@@ -18,13 +18,11 @@ I'm a proficient Web Developer & Designer specializing in crafting captivating l
 Apart from that, 🎓 I'm a dedicated 3rd year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, Mostly, I focus on Web design - Graphics design because I give more priority to my creativity or interest and building websites that captivate my target audience and get clients. 
 Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowledge, and creativity.
 </details>
-</div> <hr>
+</div>
 
 <div align="center">
 
-<img src="assets/hi.gif" width="150">
-
-## **CONNECT WITH ME**
+## 🤝🏻 **CONNECT WITH ME**
 
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
@@ -61,7 +59,8 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
-</a> <hr>
+</a> 
+<img src="assets/hi.gif" width="150"><hr>
 
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=radical" alt="codeaashu" /></a> </p>
