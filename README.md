@@ -42,6 +42,9 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <a href="https://www.figma.com/@codeaashu"> 
     <img src="https://img.shields.io/badge/Figma-004d4d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
 </a>
+<a href="https://www.fiverr.com/warrior_aashuu"> 
+    <img src="https://img.shields.io/badge/Fiverr-004d4d?style=for-the-badge&logo=fiverr&logoColor=white" title="Fiverr"  alt="Fiverr"/>
+</a>
 <a href="https://www.reddit.com/user/warrior_aashuu/"> 
     <img src="https://img.shields.io/badge/Reddit-004d4d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
 </a>
