@@ -72,8 +72,6 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=radical&disable_animations=true" alt="codeaashu" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&border=true&border_color=00ACC1&title_color=00ACC1&amp&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" alt="codeaashu" /></a> </p>
-
 
 
 </p>
