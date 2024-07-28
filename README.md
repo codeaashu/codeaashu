@@ -46,7 +46,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
     <img src="https://img.shields.io/badge/Microsoft-100000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a>
 <a href="https://hashnode.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/hashnode-100000?style=for-the-badge&logo=hashnode&logoColor=white" title="Dev"  alt="Dev"/>
+    <img src="https://img.shields.io/badge/hashnode-100000?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
 </a>
 
 <br />
