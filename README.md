@@ -2,7 +2,7 @@
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 <p align="center">
-	<h2 align="center">Full Stack Developer 🌟 Designer " Web - Graphics - UI "</h2>
+	<h2 align="center"><strong>Full Stack Developer</strong> 🌟 <strong>Designer</strong> Web - Graphics - UI</h2>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 
