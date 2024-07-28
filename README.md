@@ -19,7 +19,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 <div align="center">
 
-## 🌏 **CONNECT WITH ME**
+## 🤝🏻 **CONNECT WITH ME**
 
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-004d4d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
