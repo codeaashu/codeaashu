@@ -28,10 +28,10 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://x.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
+    <img src="https://img.shields.io/badge/x-100000?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
 <a href="https://www.instagram.com/warrior_aashuu/"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
