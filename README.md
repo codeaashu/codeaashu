@@ -42,11 +42,11 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <a href="https://in.pinterest.com/codeaashu/"> 
     <img src="https://img.shields.io/badge/Pinterest-100000?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
 </a>
-<a href="https://www.github.com/codeaashu"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a>
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-100000?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
+</a>
+<a href="https://hashnode.com/@codeaashu"> 
+    <img src="https://img.shields.io/badge/hashnode-100000?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
 </a>
 
 <br />
