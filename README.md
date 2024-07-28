@@ -21,12 +21,6 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 
 ## 🌏 **CONNECT WITH ME**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshkumaraashu)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alihamzakambohh) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/warrior_aashuu)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahkamboh)
-
-
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
     <img src="https://img.shields.io/badge/LinkedIn-004d4d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
@@ -44,6 +38,9 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </a>
 <a href="https://hashnode.com/@codeaashu"> 
     <img src="https://img.shields.io/badge/hashnode-004d4d?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
+</a>
+<a href="https://www.figma.com/@codeaashu"> 
+    <img src="https://img.shields.io/badge/Figma-004d4d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
 </a>
 <a href="https://dev.to/codeaashu"> 
     <img src="https://img.shields.io/badge/Dev-004d4d?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
