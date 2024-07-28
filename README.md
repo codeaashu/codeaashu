@@ -26,40 +26,40 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 ## 🤝🏻 **CONNECT WITH ME**
 
 <a  href="https://www.linkedin.com/in/ashutoshkumaraashu/">
-    <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-001233?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://x.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-001233?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
 <a href="https://www.instagram.com/warrior_aashuu/"> 
-    <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-001233?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/@creativityofaashu"> 
-    <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+    <img src="https://img.shields.io/badge/YouTube-001233?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <a href="https://in.pinterest.com/codeaashu/"> 
-    <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
+    <img src="https://img.shields.io/badge/Pinterest-001233?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
 </a>
 <a href="https://hashnode.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
+    <img src="https://img.shields.io/badge/hashnode-001233?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
 </a>
 <a href="https://www.figma.com/@codeaashu"> 
-    <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
+    <img src="https://img.shields.io/badge/Figma-001233?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
 </a>
 <a href="https://www.fiverr.com/warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" title="Fiverr"  alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/Fiverr-001233?style=for-the-badge&logo=fiverr&logoColor=white" title="Fiverr"  alt="Fiverr"/>
 </a>
 <a href="https://www.reddit.com/user/warrior_aashuu/"> 
-    <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
+    <img src="https://img.shields.io/badge/Reddit-001233?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
 </a>
 <a href="https://discord.com/channels/@warrior_aashuu"> 
-    <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-001233?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
 <a href="https://dev.to/codeaashu"> 
-    <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
+    <img src="https://img.shields.io/badge/Dev-001233?style=for-the-badge&logo=dev&logoColor=white" title="Dev"  alt="Dev"/>
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
-    <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
+    <img src="https://img.shields.io/badge/Microsoft-001233?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a> 
 
 <img src="assets/hi.gif" width="150"><hr>
