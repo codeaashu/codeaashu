@@ -78,9 +78,8 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </div> <hr>
 
 <div align="center">
-
 <a href="#"><img src="assets/githubgif.gif" width="150"></a>
-
+	
 ### **Thanks for checking out my GitHub Profile!**  
 
  ## 💌 Sponser
