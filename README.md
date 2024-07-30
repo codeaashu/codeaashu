@@ -29,6 +29,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=13)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=14)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=15)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=16)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=17)](https://visitcount.itsvg.in)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB ◂ DESIGNER</h2>
