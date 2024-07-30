@@ -2,7 +2,9 @@
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 <a href="#"><img src="assets/technologist.png" width="150"></a>
+
 [![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=6)](https://visitcount.itsvg.in)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB ◂ DESIGNER</h2>
