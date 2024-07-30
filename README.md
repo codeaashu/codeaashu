@@ -31,6 +31,9 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <a href="https://x.com/warrior_aashuu"> 
     <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
+<a href="mailto:hellow.ashutosh@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
 <a href="https://www.instagram.com/warrior_aashuu/"> 
     <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
@@ -73,12 +76,6 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=algolia&disable_animations=true" alt="codeaashu" /></p>
 </p>
 </div> <hr>
-
-### 📬 Contact Information
-
-- 📧 Email: hellow.ashutosh@gmail.com
-- 📍 Location: Patna, Bihar, India
-- 📱 Phone: +91 6209950346
 
 <div align="center">
 
