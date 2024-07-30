@@ -6,54 +6,6 @@
 [![](https://visitcount.itsvg.in/api?id=codeaashu&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=1)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=2)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=3)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=4)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=5)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=6)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=7)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=8)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=9)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=10)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=11)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=12)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=13)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=14)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=15)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=16)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=17)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=18)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=19)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=20)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=21)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=22)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=23)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=24)](https://visitcount.itsvg.in)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB ◂ DESIGNER</h2>
