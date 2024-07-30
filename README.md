@@ -2,10 +2,6 @@
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 <a href="#"><img src="assets/technologist.png" width="150"></a>
-
-[![](https://visitcount.itsvg.in/api?id=codeaashu&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB ◂ DESIGNER</h2>
@@ -89,5 +85,7 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
  ## 💌 Sponser
  
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeaashu)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 </div>  
