@@ -37,6 +37,20 @@
 
 [![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=17)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=18)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=19)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=20)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=21)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=22)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=23)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=24)](https://visitcount.itsvg.in)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 <p align="center">
 	<h2 align="center">DEVELOPER ▸ WEB ◂ DESIGNER</h2>
