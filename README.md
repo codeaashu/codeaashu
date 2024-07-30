@@ -3,6 +3,9 @@
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 <a href="#"><img src="assets/technologist.png" width="150"></a>
 
+[![](https://visitcount.itsvg.in/api?id=codeaashu&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+
 [![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=codeaashu&icon=2&color=2)](https://visitcount.itsvg.in)
