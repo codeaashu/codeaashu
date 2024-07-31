@@ -2,7 +2,7 @@
 	
 <h1 align="center">Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> aashu this side!</h1>
 
-`A Man Who Code & Designs With His Hidden Creativity`
+`A Man Who Codes & Designs Using His Hidden Creativity.`
 
 <a href="#"><img src="assets/technologist.png" width="150"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
