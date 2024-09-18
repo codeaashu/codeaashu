@@ -78,7 +78,15 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=algolia&disable_animations=true" alt="codeaashu" /></p>
 </p>
-</div> <hr>
+</div> 
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/ujjwal2327">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/ujjwal2327">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=tokyonight&layout=donut-vertical"/>
+</a>
+</div><hr>
 
 <div align="center">
 <a href="#"><img src="assets/githubgif.gif" width="150"></a>
