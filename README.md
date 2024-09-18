@@ -80,11 +80,11 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
 </p>
 </div> 
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-<a style="" href="https://github.com/ujjwal2327">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+<a style="" href="https://github.com/codeaashu">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&theme=algolia&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-<a style="" href="https://github.com/ujjwal2327">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=tokyonight&layout=donut-vertical"/>
+<a style="" href="https://github.com/codeaashu">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&theme=algolia&layout=donut-vertical"/>
 </a>
 </div><hr>
 
