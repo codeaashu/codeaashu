@@ -14,7 +14,8 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-I'm a proficient Web Developer & Designer specializing in crafting captivating landing pages and websites. My focus on user-centric design and effective collaboration allows me to create seamless and dynamic digital experiences. I can also elevate your brand presence with my design expertise. Most importantly, I'm a reliable designer you can rely on for all your design needs.
+Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
+Most importantly, I'm a reliable designer you can rely on for all your design needs.
 
 <details>
     <summary>See more</summary>
