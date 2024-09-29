@@ -90,6 +90,4 @@ Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowle
  
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeaashu)
 
-[![](https://visitcount.itsvg.in/api?id=codeaashu&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 </div>  
