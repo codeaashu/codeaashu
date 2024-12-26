@@ -16,13 +16,6 @@
 
 Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
 Most importantly, I'm a reliable designer you can rely on for all your design needs.
-
-<details>
-    <summary>See more</summary>
-    <a href="#"><img src="assets/astronaut.png" width="150"></a> <br>
-Apart from that, 🎓 I'm a dedicated 3rd year BCA student at CIMAGE Professional College (affiliated with AKU University). Fueled by a passion for becoming a Software Developer, I'm actively learning new technologies, computer science fundamentals, and programming languages. I'm eager to leverage my strong programming skills, proven problem-solving abilities, and teamwork experience in a challenging and dynamic environment to tackle real-world problems. 🎯 But, Mostly, I focus on Web design - Graphics design because I give more priority to my creativity or interest and building websites that captivate my target audience and get clients. 
-Judge me as a 🌟 A Creator and Learner who likes to share his learning, knowledge, and creativity.
-</details>
 </div><hr>
 
 <div align="center">
