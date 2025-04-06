@@ -60,7 +60,7 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/"> 
     <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
-</a> 
+</a><br>
 
 
 <img src="assets/hi.gif" width="150">
