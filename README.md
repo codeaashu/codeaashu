@@ -73,6 +73,14 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevInnovatorpng.gif" alt="Dev Innovator" height="200" width="200" /></a>
 </p>
 
+<div align="center">
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /> Dev Legacy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Confetti%20Ball.webp" alt="Confetti Ball" width="25" height="25" /></h1>
+
+| <img src="assets/DevPioneerpng.gif"> | <img src="assets/DevEnhancerpng.gif"> | <img src="assets/DevInnovatorpng.gif"> |
+| ------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
+
+</div>
+
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=algolia" alt="codeaashu" /></a> </p>
 <p align="center">
