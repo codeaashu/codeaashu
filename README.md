@@ -16,7 +16,7 @@
 
 Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
 Most importantly, I'm a reliable designer you can rely on for all your design needs.
-</div>
+</div><hr>
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="Dev Pioneer" height="200" width="200" /></a>
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="Dev Enhancer" height="200" width="200" /></a>
   <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Dev Innovator" height="200" width="200" /></a>
-</p><hr>
+</p>
 
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=algolia" alt="codeaashu" /></a> </p>
