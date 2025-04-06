@@ -68,9 +68,9 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 
 <h2 align="center">Dev Legacy!<h2>  
 <p align="center">
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="Dev Pioneer" height="200" width="200" /></a>
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="Dev Enhancer" height="200" width="200" /></a>
-  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Dev Innovator" height="200" width="200" /></a>
+  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevPioneerpng.gif" alt="Dev Pioneer" height="200" width="200" /></a>
+  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevEnhancerpng.gif" alt="Dev Enhancer" height="200" width="200" /></a>
+  <a href="https://www.devdisplay.org/profile/codeaashu" target="_blank"><img align="center" src="assets/DevInnovatorpng.gif" alt="Dev Innovator" height="200" width="200" /></a>
 </p>
 
 <h3 align="center">📊 My Stats</h3>
