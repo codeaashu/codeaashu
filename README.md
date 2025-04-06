@@ -62,7 +62,9 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
     <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" title="Microsoft"  alt="Microsoft"/>
 </a> 
 
+
 <img src="assets/hi.gif" width="150">
+
 
 <h2 align="center">Dev Legacy!<h2>  
 <p align="center">
