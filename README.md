@@ -16,7 +16,7 @@
 
 Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now i build 50+ WEB APP. 
 Most importantly, I'm a reliable designer you can rely on for all your design needs.
-</div><hr>
+</div>
 
 <div align="center">
 
