@@ -1,6 +1,6 @@
 <div align="center">
 	
-<h1 align="center">Hello <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> Good People<br>This is aashuu ⚡︎ ✦ ⟡ ⚡ the glitch in your perfect system.</h1>
+<h1 align="center">Hello <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> Good People<br>This is aashuu <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> the glitch in your perfect system.</h1>
 
 `A Man Who Codes & Designs Using His Hidden Creativity.`
 
