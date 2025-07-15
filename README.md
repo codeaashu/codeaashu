@@ -7,18 +7,15 @@
       <p>
 	<ul>
 	<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>	
-	<h3 align="center"> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity. <br>
+	<h3 align="center"> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity. <br><br>
 		| Product Engineer @LPS • OSC at GSoC '25 |<hr></h3>
         <li>Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community.</li>
-        <li>Currently Pursuing a Bachelor's in Computer Science (CSE - Final Year).</li>
-        <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
-        <li>&nbsp; Currently diving into new technologies to expand my skills.</li>
-        <li>&nbsp; In the future, I aspire to share my experiences at conferences and inspire others to join open-source initiatives.</li>
-        <li>&nbsp; Most of my projects are available on <a href="https://github.com/codeaashu?tab=repositories">GitHub</a>.</li>
-        <li>&nbsp; Ask me about anything tech-related; I’m happy to help!</li>
+        <li>Open Source Mentor at Hacktoberfest 2024, GirlScript Summer of Code (23,24), IEEE IGDTUW Open Source Week 2024, Social Winter of Code (23,24), Kharagpur Winter of Code 24, NJACK Winter of Code, IIT Patna OS Month 2024, Script Winter of Code (24,25).</li>
+        <li>Lead Product Engineer at a Dubai-based service company (LPS), driving 8 teams to build scalable microservices and AI platforms that turn content into tradable assets.</li>
+	<li>Pursuing a Bachelor's in Computer Science (CSE - Final Year).</li>
+        <li>Mostly spending working time on Conversational AI, Next.js, Branding (Startups, Professional), open source, and also learning LLMs.</li>
+        <li>Available only for contract-based freelance projects in Web App Development, UI/UX, and Brand Design.</li>
         <li>&nbsp; Connect with me www.ashutoshkumar.me</li>
-        <li>&nbsp; In my free time, I enjoy listening to music.</li>
-        <li>&nbsp; Always Open For Contract Based Freelance Work!</strong></li>
       </p>
       </ul>
     </td>
