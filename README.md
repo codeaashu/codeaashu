@@ -5,10 +5,11 @@
   <tr>
     <td>
       <p>
+	<ul>
 	<h3 align="center"> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity. <br><br>
-		| Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community. |<hr></h3>
+		| Product Engineer @LPS • OSC at GSoC '25 |<hr></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
-        - Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community.
+        <li>&nbsp; Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community.</li>
         <li>&nbsp; Currently Pursuing a Bachelor's in Computer Science (CSE - Final Year).</li>
         <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
         <li>&nbsp; Currently diving into new technologies to expand my skills.</li>
@@ -19,6 +20,7 @@
         <li>&nbsp; In my free time, I enjoy listening to music.</li>
         <li>&nbsp; Always Open For Contract Based Freelance Work!</strong></li>
       </p>
+      </ul>
     </td>
     <td align="center" width="300">
       <a href="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" target="_blank">
