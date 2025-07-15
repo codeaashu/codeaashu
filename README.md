@@ -29,7 +29,7 @@
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
       <!-- Social Links -->
       <br><br>
-      <h3>🤝🏻 CONNECT WITH ME</h3>
+      <img src="assets/hi.gif" width="150">
       <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
         <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
@@ -74,9 +74,6 @@
 </table>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
-
-
-<img src="assets/hi.gif" width="150">
 
 
 <!--<h2 align="center">Dev Legacy!<h2>
