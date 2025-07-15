@@ -47,6 +47,79 @@ Creative Full Stack Web Developer & Designer specializing in crafting captivatin
 Most importantly, I'm a reliable designer you can rely on for all your design needs.
 </div><hr>
 
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style: none; padding-left: 0;">
+        <p align="center">
+          <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
+        </p>
+        <h3 align="center">
+          Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.
+          <br><br>
+          Till now, I have built 50+ web apps.
+          <br>(19 delivered to clients, the rest are personal.)
+          <hr>
+        </h3>
+        <li>Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community.</li>
+        <li>Lead Product Engineer at a Dubai-based service company (LPS), driving 8 teams to build scalable microservices and AI platforms that turn content into tradable assets.</li>
+        <li>Open Source Mentor at Hacktoberfest 2024, GirlScript Summer of Code (23,24), IEEE IGDTUW Open Source Week 2024, Social Winter of Code (23,24), Kharagpur Winter of Code 24, NJACK Winter of Code, IIT Patna OS Month 2024, Script Winter of Code (24,25).</li>
+        <li>Mostly spending working time on Conversational AI, Next.js, Branding (Startups, Professional), open source, and also learning LLMs.</li>
+        <li>Available only for contract-based freelance projects in Web App Development, UI/UX, and Brand Design.</li>
+        <li>Pursuing a Bachelor's in Computer Science (CSE - Final Year).</li>
+      </ul>
+    </td>
+    <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
+    <td align="center" valign="top" width="300">
+      <!-- Coding GIF -->
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+      <!-- Social Links -->
+      <br><br>
+      <h3>🤝🏻 CONNECT WITH ME</h3>
+      <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
+        <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://x.com/warrior_aashuu">
+        <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+      </a>
+      <a href="mailto:hellow.ashutosh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      <a href="https://www.instagram.com/warrior_aashuu/">
+        <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+      <a href="https://www.youtube.com/@creativityofaashu">
+        <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+      <a href="https://in.pinterest.com/codeaashu/">
+        <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+      </a>
+      <a href="https://hashnode.com/@codeaashu">
+        <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+      </a>
+      <a href="https://www.figma.com/@codeaashu">
+        <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      </a>
+      <a href="https://www.fiverr.com/warrior_aashuu">
+        <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+      </a>
+      <a href="https://www.reddit.com/user/warrior_aashuu/">
+        <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+      </a>
+      <a href="https://discord.com/channels/@warrior_aashuu">
+        <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
+      <a href="https://dev.to/codeaashu">
+        <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" alt="Dev" />
+      </a>
+      <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/">
+        <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
 
 ## 🤝🏻 **CONNECT WITH ME**
