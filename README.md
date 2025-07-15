@@ -125,12 +125,29 @@
 
 </div> <hr>
 
-<div align="center">
-<a href="#"><img src="assets/githubgif.gif" width="150"></a>
-	
-### **Thanks for checking out my GitHub Profile!**  
+<div align="center" style="border: 2px solid #000; border-radius: 16px; padding: 20px; display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
 
- ## 💌 Sponser
+  <div style="flex: 1; text-align: left;">
+    <p style="font-size: 18px; margin: 0;">Invited you to be a part of our global vision</p>
+    
+    <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" style="height: 40px; margin: 10px 0;" />
+    
+    <a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #4f46e5, #3b82f6); color: white; padding: 10px 20px; border-radius: 12px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      ➕ Add Your Profile
+    </a>
+  </div>
+
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="DevDisplay Icon" style="height: 80px;" />
+  </div>
+
+</div>
+
+
+<div align="center">
+<a href="#"><img src="assets/githubgif.gif" width="150"></a> 
+
+ <!--## 💌 Sponser
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <a href="https://www.buymeacoffee.com/codeaashu" target="_blank" rel="noopener noreferrer">
@@ -141,6 +158,6 @@
   <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
 </a>
 
-</div>
+</div>-->
 
 </div>  
