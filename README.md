@@ -105,7 +105,6 @@
 
 </div>-->
 
-
 <h3 align="center">📊 Stats of Obsession</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura)
@@ -148,7 +147,7 @@
   <tr>
     <!-- Left Section -->
     <td align="center" style="padding: 20px; width: 70%;">
-      <p><strong>Invited you to be a part of our global vision</strong></p>
+      <p><strong>Invited you to be part of a global developer vision.</strong></p>
       <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
       <br><br>
       <a href="https://www.devdisplay.org/" target="_blank">
@@ -162,7 +161,7 @@
 </table>
 
 <div align="center">
-<a href="#"><img src="assets/githubgif.gif" width="150"></a> 
+<a href="#"><img src="assets/githubgif.gif" width="200"></a> 
 </div>  
 
 
