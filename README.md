@@ -130,12 +130,10 @@
   <!-- Left Section -->
   <div style="flex: 1; text-align: left; padding: 10px 20px;">
     <p style="font-size: 16px; margin: 0 0 10px; color: #000;">Invited you to be a part of our global vision</p>
+	  
+<img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay" style="height: 40px; margin-bottom: 12px;" /><br />
 
-    <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay" style="height: 40px; margin-bottom: 12px;" />
-
-    <br />
-
-    <a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 14px; font-weight: 600; color: #000; border: 2px solid #000; border-radius: 12px; text-decoration: none; margin-top: 10px;">
+<a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 14px; font-weight: 600; color: #000; border: 2px solid #000; border-radius: 12px; text-decoration: none; margin-top: 10px;">
       Add Your Profile
     </a>
   </div>
