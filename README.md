@@ -3,52 +3,6 @@
 
 <table>
   <tr>
-    <td>
-      <p>
-	<ul>
-	<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>	
-	<h3 align="center"> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity. <br><br>
-		Till now, I have built 50+ web apps.<br>(19 delivered to clients, the rest are personal.)<hr></h3>
-        <li>Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community.</li>
-	<li>Lead Product Engineer at a Dubai-based service company (LPS), driving 8 teams to build scalable microservices and AI platforms that turn content into tradable assets.</li>
-        <li>Open Source Mentor at Hacktoberfest 2024, GirlScript Summer of Code (23,24), IEEE IGDTUW Open Source Week 2024, Social Winter of Code (23,24), Kharagpur Winter of Code 24, NJACK Winter of Code, IIT Patna OS Month 2024, Script Winter of Code (24,25).</li>
-	<li>Mostly spending working time on Conversational AI, Next.js, Branding (Startups, Professional), open source, and also learning LLMs.</li>
-        <li>Available only for contract-based freelance projects in Web App Development, UI/UX, and Brand Design.</li>
-	<li>Pursuing a Bachelor's in Computer Science (CSE - Final Year).</li>
-      </p>
-      </ul>
-    </td>
-    <td align="center" width="300">
-      <a href="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" target="_blank">
-        <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-<a href="#"><img src="assets/technologist.png" width="150"></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
-<p align="center">
-	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
-</p>
-
-<!-- <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> -->
-	
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> -->
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
-
-## 🙋🏻‍♂️ **About Me**
-
-Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now, I have built 50+ web apps. 
-Most importantly, I'm a reliable designer you can rely on for all your design needs.
-</div><hr>
-
-<table>
-  <tr>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
         <p align="center">
@@ -118,6 +72,29 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
     </td>
   </tr>
 </table>
+
+
+
+<a href="#"><img src="assets/technologist.png" width="150"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
+<p align="center">
+	<h2 align="center">DEVELOPER ▸ WEB - APP ◂ DESIGNER</h2>
+</p>
+
+<!-- <img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"> -->
+	
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> -->
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
+
+## 🙋🏻‍♂️ **About Me**
+
+Creative Full Stack Web Developer & Designer specializing in crafting captivating Websites & Apps. My focus on user-centric design, creative development, and effective collaboration, i can also elevate the brand presence with my design expertise. Till now, I have built 50+ web apps. 
+Most importantly, I'm a reliable designer you can rely on for all your design needs.
+</div><hr>
+
+
 
 
 <div align="center">
