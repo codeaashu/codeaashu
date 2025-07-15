@@ -6,7 +6,7 @@
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
         <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
+          <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
         </p>
         <h3 align="center">
           Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.
@@ -26,10 +26,10 @@
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
     <td align="center" valign="top" width="300">
       <!-- Coding GIF -->
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
       <!-- Social Links -->
       <br><br>
-      <img src="assets/hi.gif" width="150" alt="Connect with me" />
+      <img src="assets/hi.gif" width="150" alt="Connect with me" /><br>
       <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
         <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
