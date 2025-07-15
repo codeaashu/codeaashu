@@ -90,10 +90,13 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="codeaashu" /></p>
 </p>
-<img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura" alt="Profile Summary">
 <hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=aura&utcOffset=8)
 
 </div> <hr>
 
