@@ -4,20 +4,18 @@
 <table>
   <tr>
     <td>
-      <p>
-        <ul style="list-style: none; padding-left: 0;">
-	<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.</li>
+      <ul style="list-style: none; padding-left: 0;">
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
         <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
         <li>&nbsp; Currently diving into new technologies to expand my skills.</li>
         <li>&nbsp; In the future, I aspire to share my experiences at conferences and inspire others to join open-source initiatives.</li>
         <li>&nbsp; Most of my projects are available on <a href="https://github.com/codeaashu?tab=repositories">GitHub</a>.</li>
         <li>&nbsp; Ask me about anything tech-related; I’m happy to help!</li>
-        <li>&nbsp; Connect with me www.ashutoshkumar.me</li>
+        <li>&nbsp; Connect with me: <a href="https://www.ashutoshkumar.me">www.ashutoshkumar.me</a></li>
         <li>&nbsp; In my free time, I enjoy listening to music.</li>
-        <li>&nbsp; Always Open For Contract Based Freelance Work!</strong></li>
-        </ul>
-      </p>
+        <li>&nbsp; Always open for contract-based freelance work!</li>
+      </ul>
     </td>
     <td align="center" width="300">
       <a href="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" target="_blank">
@@ -26,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 
 <a href="#"><img src="assets/technologist.png" width="150"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
