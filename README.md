@@ -131,7 +131,6 @@
         <img src="https://img.shields.io/badge/Add%20Your%20Profile-007BFF?style=for-the-badge&logo=devdotto&logoColor=white" alt="Add Your Profile"/>
       </a>
     </td>
-
     <!-- Right Side (Logo Icon) -->
     <td align="center" style="padding: 20px; width: 30%;">
       <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" height="80" />
