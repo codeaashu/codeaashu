@@ -90,6 +90,7 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=algolia&disable_animations=true" alt="codeaashu" /></p>
 </p>
+<img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=radical" alt="Profile Summary">
 </div> <hr>
 
 <div align="center">
