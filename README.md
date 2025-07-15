@@ -129,9 +129,7 @@
 
   <div style="flex: 1; text-align: left;">
     <p style="font-size: 18px; margin: 0;">Invited you to be a part of our global vision</p>
-    
     <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" style="height: 40px; margin: 10px 0;" />
-    
     <a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #4f46e5, #3b82f6); color: white; padding: 10px 20px; border-radius: 12px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
       ➕ Add Your Profile
     </a>
