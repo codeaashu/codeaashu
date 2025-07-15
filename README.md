@@ -5,7 +5,7 @@
   <tr>
     <td>
       <p>
-        <ul>
+        <ul style="list-style: none; padding-left: 0;">
 	<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
         <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
