@@ -30,6 +30,10 @@
       <!-- Social Links -->
       <br><br>
       <img src="assets/hi.gif" width="150" alt="Connect with me" /><br>
+           <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" alt="DevDisplay Logo" />
+  <img src="https://img.shields.io/badge/DevDisplay-00384d?style=for-the-badge&logoColor=white" alt="DevDisplay" />
+</a>
       <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
         <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
@@ -69,10 +73,6 @@
       <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/">
         <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
       </a>
-     <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" alt="DevDisplay Logo" />
-  <img src="https://img.shields.io/badge/DevDisplay-00384d?style=for-the-badge&logoColor=white" alt="DevDisplay" />
-</a>
 <a href="https://codeforces.com/profile/codeaashu">
   <img src="https://img.shields.io/badge/Codeforces-00384d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
