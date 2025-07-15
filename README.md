@@ -123,7 +123,7 @@
   <tr>
     <!-- Left Side -->
     <td align="center" style="padding: 20px; width: 70%;">
-      <p><strong>Invited you to be a part of our global vision</strong></p>
+      <p><strong>Invited you to be part of a global developer vision</p>
       <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
       <br><br>
       <a href="https://www.devdisplay.org/" target="_blank">
@@ -138,31 +138,8 @@
 </table>
 
 <div align="center">
-  <img src="assets/githubgif.gif" width="150" />
+  <img src="assets/githubgif.gif" width="200" />
 </div>
-
-
-
-<table align="center" width="100%" style="border: 2px solid #000; border-radius: 16px;">
-  <tr>
-    <!-- Left Section -->
-    <td align="center" style="padding: 20px; width: 70%;">
-      <p><strong>Invited you to be part of a global developer vision.</strong></p>
-      <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
-      <br><br>
-      <a href="https://www.devdisplay.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Add%20Your%20Profile-000000?style=for-the-badge&logo=github&logoColor=white" alt="Add Your Profile"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px; width: 30%;">
-      <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" height="80" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-<a href="#"><img src="assets/githubgif.gif" width="200"></a> 
-</div>  
 
 
 <!--- <p align="center">
