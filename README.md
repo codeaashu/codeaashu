@@ -125,21 +125,28 @@
 
 </div> <hr>
 
-<div align="center" style="border: 2px solid #000; border-radius: 16px; padding: 20px; display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: auto;">
+<div align="center" style="border: 2px solid #ccc; border-radius: 16px; padding: 20px; display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 30px auto; background-color: #fff;">
 
-  <div style="flex: 1; text-align: left;">
-    <p style="font-size: 18px; margin: 0;">Invited you to be a part of our global vision</p>
-    <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" style="height: 40px; margin: 10px 0;" />
-    <a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #4f46e5, #3b82f6); color: white; padding: 10px 20px; border-radius: 12px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <!-- Left Section -->
+  <div style="flex: 1; text-align: left; padding-left: 20px;">
+    <p style="font-size: 16px; color: #333; margin: 0 0 10px;">Invited you to be a part of our global vision</p>
+    
+ <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" style="height: 40px; margin: 10px 0;" />
+
+<br />
+
+<a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #4f46e5, #3b82f6); color: white; padding: 10px 18px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 14px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); margin-top: 10px;">
       ➕ Add Your Profile
     </a>
   </div>
 
-  <div style="flex-shrink: 0; margin-left: 20px;">
+  <!-- Right Section -->
+  <div style="flex-shrink: 0; padding-right: 20px;">
     <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="DevDisplay Icon" style="height: 80px;" />
   </div>
 
 </div>
+
 
 
 <div align="center">
