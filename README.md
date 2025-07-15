@@ -1,7 +1,30 @@
 <div align="center">	
 <h1 align="center"><img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"><br>This is aashuu - The glitch in your perfect system.</h1>
 
-`A Man Who Codes & Designs Using His Hidden Creativity.`
+<table>
+  <tr>
+    <td>
+      <p>
+        <ul>
+         <li>&nbsp; I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
+        <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
+        <li>&nbsp; Currently diving into new technologies to expand my skills.</li>
+        <li>&nbsp; In the future, I aspire to share my experiences at conferences and inspire others to join open-source initiatives.</li>
+        <li>&nbsp; Most of my projects are available on <a href="https://github.com/codeaashu?tab=repositories">GitHub</a>.</li>
+        <li>&nbsp; Ask me about anything tech-related; I’m happy to help!</li>
+        <li>&nbsp; Connect with me www.ashutoshkumar.me</li>
+        <li>&nbsp; In my free time, I enjoy listening to music.</li>
+        <li>&nbsp; Always Open For Contract Based Freelance Work!</strong></li>
+        </ul>
+      </p>
+    </td>
+    <td align="center" width="300">
+      <a href="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" target="_blank">
+        <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a href="#"><img src="assets/technologist.png" width="150"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
