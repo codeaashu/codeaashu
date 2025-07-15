@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) <hr>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 
 
 <!--<h2 align="center">Dev Legacy!<h2>
@@ -117,13 +117,33 @@
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=aura" alt="codeaashu" /></a> </p>
 
-<!--- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=14141c&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-</p> --->
-
-<!--- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=14141c&title_color=00ACC1&langs_count=15&layout=compact" /> --->
-
 </div> <hr>
+
+
+<table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
+  <tr>
+    <!-- Left Side -->
+    <td align="center" style="padding: 20px; width: 70%;">
+      <p><strong>Invited you to be a part of our global vision</strong></p>
+      <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
+      <br><br>
+      <a href="https://www.devdisplay.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Add%20Your%20Profile-007BFF?style=for-the-badge&logo=devdotto&logoColor=white" alt="Add Your Profile"/>
+      </a>
+    </td>
+
+    <!-- Right Side (Logo Icon) -->
+    <td align="center" style="padding: 20px; width: 30%;">
+      <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" height="80" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="assets/githubgif.gif" width="150" />
+</div>
+
+
 
 <table align="center" width="100%" style="border: 2px solid #000; border-radius: 16px;">
   <tr>
@@ -142,12 +162,16 @@
   </tr>
 </table>
 
-
-
-
-
 <div align="center">
 <a href="#"><img src="assets/githubgif.gif" width="150"></a> 
+</div>  
+
+
+<!--- <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=14141c&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+</p> --->
+
+<!--- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=14141c&title_color=00ACC1&langs_count=15&layout=compact" /> --->
 
  <!--## 💌 Sponser
 
@@ -161,5 +185,3 @@
 </a>
 
 </div>-->
-
-</div>  
