@@ -137,9 +137,10 @@
     <img src="https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
   </a>
 
-  <a href="https://github.com/sponsors/codeaashu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 6px 14px; background-color: #24292e; color: white; font-weight: 600; border-radius: 6px; text-decoration: none; font-family: Arial, sans-serif;">
-    Sponsor me on GitHub
-  </a>
+<a href="https://github.com/sponsors/codeaashu" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github" alt="GitHub Sponsor" />
+</a>
+
 </div>
 
 </div>  
