@@ -6,13 +6,11 @@
     <td>
       <p>
         <ul>
-	<h3 align="center"> B.Tech student at IIIT Jabalpur | Developer who loves turning
-ideas into code and learning something new every day. <br>
+	<h3 align="center"> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity. <br>
 <br>
 |"Transforming 💡 into Seamless Digital Experiences" |<hr>
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetjain1&
-label=Profile%20views&color=0e75b6&style=flat" alt="meetjain1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>
 	<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
         <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
