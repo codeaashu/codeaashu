@@ -6,7 +6,8 @@
     <td>
       <p>
         <ul>
-         <li>&nbsp; I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
+	<li>&nbsp; Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity.</li>
+        <li>&nbsp; I’m a sophomore student pursuing a Bachelor's in Computer Science (CSE).</li>
         <li>&nbsp; I love contributing to open-source projects and engaging with the developer community.</li>
         <li>&nbsp; Currently diving into new technologies to expand my skills.</li>
         <li>&nbsp; In the future, I aspire to share my experiences at conferences and inspire others to join open-source initiatives.</li>
