@@ -85,18 +85,18 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 <h3 align="center">📊 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=aura" alt="codeaashu" /></a> </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=14141c&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=14141c&title_color=00ACC1&langs_count=15&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=14141c&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="codeaashu" /></p>
 </p>
-<hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeaashu&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeaashu&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=aura&utcOffset=8)
+
+<!--- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeaashu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=14141c&title_color=00ACC1&langs_count=15&layout=compact" /> --->
 
 </div> <hr>
 
