@@ -132,6 +132,14 @@
 
  ## 💌 Sponser
 
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeaashu)
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://www.buymeacoffee.com/codeaashu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+  </a>
+
+  <a href="https://github.com/sponsors/codeaashu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 6px 14px; background-color: #24292e; color: white; font-weight: 600; border-radius: 6px; text-decoration: none; font-family: Arial, sans-serif;">
+    Sponsor me on GitHub
+  </a>
+</div>
 
 </div>  
