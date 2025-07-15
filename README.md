@@ -8,7 +8,7 @@
 	<ul>
 	<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" /> </p>	
 	<h3 align="center"> Turning pixels into production-ready products for the past 3 years with a mind full of fucking obsessed creativity. <br><br>
-		Till now, I have built 50+ web apps.<br>(19 client-delivered, the rest personal.)<hr></h3>
+		Till now, I have built 50+ web apps.<br>(19 delivered to clients, the rest are personal.)<hr></h3>
         <li>Building DevDisplay - A tech ecosystem running on 3 business models: Platform, Labs, and Community.</li>
         <li>Open Source Mentor at Hacktoberfest 2024, GirlScript Summer of Code (23,24), IEEE IGDTUW Open Source Week 2024, Social Winter of Code (23,24), Kharagpur Winter of Code 24, NJACK Winter of Code, IIT Patna OS Month 2024, Script Winter of Code (24,25).</li>
         <li>Lead Product Engineer at a Dubai-based service company (LPS), driving 8 teams to build scalable microservices and AI platforms that turn content into tradable assets.</li>
