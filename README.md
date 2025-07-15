@@ -125,25 +125,23 @@
 
 </div> <hr>
 
-<div align="center" style="max-width: 800px; margin: 40px auto; padding: 20px; border: 2px solid #000; border-radius: 16px; display: flex; justify-content: space-between; align-items: center; background-color: #fff;">
+<table align="center" width="100%" style="border: 2px solid #000; border-radius: 16px;">
+  <tr>
+    <!-- Left Section -->
+    <td align="center" style="padding: 20px; width: 70%;">
+      <p><strong>Invited you to be a part of our global vision</strong></p>
+      <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
+      <br><br>
+      <a href="https://www.devdisplay.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Add%20Your%20Profile-000000?style=for-the-badge&logo=github&logoColor=white" alt="Add Your Profile"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px; width: 30%;">
+      <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" height="80" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Left Section -->
-  <div style="flex: 1; text-align: left; padding: 10px 20px;">
-    <p style="font-size: 16px; margin: 0 0 10px; color: #000;">Invited you to be a part of our global vision</p>
-	  
-<img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay" style="height: 40px; margin-bottom: 12px;" /><br />
-
-<a href="https://www.devdisplay.org/" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 14px; font-weight: 600; color: #000; border: 2px solid #000; border-radius: 12px; text-decoration: none; margin-top: 10px;">
-      Add Your Profile
-    </a>
-  </div>
-
-  <!-- Right Section -->
-  <div style="width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; border: 2px solid #000; border-radius: 20px; background-color: #fff;">
-    <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" style="height: 60px;" />
-  </div>
-
-</div>
 
 
 
