@@ -87,6 +87,9 @@ Most importantly, I'm a reliable designer you can rely on for all your design ne
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeaashu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=14141c&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </p>
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeaashu&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeaashu&theme=aura)
