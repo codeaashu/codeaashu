@@ -29,7 +29,7 @@
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
       <!-- Social Links -->
       <br><br>
-      <img src="assets/hi.gif" width="150">
+      <img src="assets/hi.gif" width="150" alt="Connect with me" />
       <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
         <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
