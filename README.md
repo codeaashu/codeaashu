@@ -21,7 +21,7 @@
         <li>Open Source Mentor at Hacktoberfest 2024, GirlScript Summer of Code (23,24), IEEE IGDTUW Open Source Week 2024, Social Winter of Code (23,24), Kharagpur Winter of Code 24, NJACK Winter of Code, IIT Patna OS Month 2024, Script Winter of Code (24,25).</li>
         <li>Mostly spending working time on Conversational AI, Next.js, Branding (Startups, Professional), open source, and also learning LLMs.</li>
         <li>Available only for contract-based freelance projects in Web App Development, UI/UX, and Brand Design.</li>
-        <li>Pursuing a Bachelor's in Computer Science (CSE - Final Year).</li>
+        <li>Pursuing Master’s in Computer Applications (MCA).</li>
       </ul>
     </td>
     <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
