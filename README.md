@@ -1,5 +1,4 @@
 <div align="center" style="background-color: #0d1117; color: #ffffff; padding: 30px; border-radius: 10px;">
-<div align="center">	
 <h1 align="center"><img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"><br>This is aashuu - The glitch in your perfect system.</h1>
 
 <table>
