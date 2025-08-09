@@ -1,6 +1,6 @@
 <div align="center">
 	
-[![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
+[![Enable GitHub Dark Mode for best view →](https://img.shields.io/badge/Enable%20GitHub%20Dark%20Mode%20For%20Best%20View→-Click%20Here-blue?style=for-the-badge&logo=github#gh-light-mode-only)](https://github.com/settings/appearance)
 <h2></h2>
 	
 <h1 align="center"><img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"><br>This is aashuu - The glitch in your perfect system.</h1>
