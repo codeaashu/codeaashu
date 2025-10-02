@@ -13,7 +13,7 @@
           <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
         </p>
         <h3 align="center">
-          Building production-ready products for the past 3 years that brutally dominate the market in so many Fucking ways.
+          Building production-ready products for the past 3 years that brutally dominate the market in so many fucking ways.
           <br><br>
           Till now, I have built 50+ web apps.
           <br>(19 delivered to clients, the rest are personal.)
