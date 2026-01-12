@@ -37,13 +37,13 @@
       <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
         <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
-      <a href="https://x.com/warrior_aashuu">
+      <a href="https://x.com/warrioraashuu">
         <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
       </a>
       <a href="mailto:hellow.ashutosh@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
-      <a href="https://www.instagram.com/warrior_aashuu/">
+      <a href="https://www.instagram.com/warrioraashuu/">
         <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a>
       <a href="https://www.youtube.com/@creativityofaashu">
@@ -55,16 +55,16 @@
       <a href="https://hashnode.com/@codeaashu">
         <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
       </a>
-      <a href="https://www.figma.com/@codeaashu">
+      <a href="https://www.figma.com/@aashuu">
         <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       </a>
       <a href="https://www.fiverr.com/warrior_aashuu">
         <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
       </a>
-      <a href="https://www.reddit.com/user/warrior_aashuu/">
+      <a href="https://www.reddit.com/user/warrioraashuu/">
         <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
       </a>
-      <a href="https://discord.com/channels/@warrior_aashuu">
+      <a href="https://discord.com/channels/@warrioraashuu">
         <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
       </a>
       <a href="https://dev.to/codeaashu">
@@ -76,7 +76,7 @@
      <a href="https://codeforces.com/profile/codeaashu">
         <img src="https://img.shields.io/badge/Codeforces-00384d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
      </a>
-     <a href="https://warrioraashuu.medium.com/">
+     <a href="https://medium.com/@warrioraashuu">
         <img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
      </a>
      <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
