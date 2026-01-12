@@ -118,7 +118,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeaashu&theme=aura&utcOffset=8)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeaashu&border=true&border_color=00ACC1&theme=aura&disable_animations=true" alt="codeaashu" /></p>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeaashu&theme=aura" alt="codeaashu" /></a> </p>
 
 </div> <hr>
 
