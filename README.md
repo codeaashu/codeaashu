@@ -91,8 +91,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ---
 
 ## Philosophy
-> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle...
-> Always remind yourself `अहमस्मि योधः`
+> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle... Always remind yourself `अहमस्मि योधः`
 
 </br>
 
