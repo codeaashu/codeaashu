@@ -63,7 +63,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - soon](#)** - The Intelligence System for Modern Events.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](#)** - The Intelligence System for Modern Events.
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray](https://repoxray.devdisplay.org/)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before POW, study POF. Backed by $258.4B Burned Capital
