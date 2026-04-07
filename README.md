@@ -28,6 +28,13 @@ Professionally, an Entrepreneur
 
 <h4 align="center"><img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/><br>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h4>
 <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a>
+<a href="https://peerlist.io/aashuu/project/repoxray" target="_blank" rel="noreferrer">
+				<img
+					src="https://peerlist.io/api/v1/projects/embed/PRJHGNQREMEJOJPJKCM788Q6LPL86O?showUpvote=true&theme=dark"
+					alt="RepoXray"
+					style="width: auto; height: 72px;"
+				/>
+			</a>
 </td>
 </tr>
 </table>
