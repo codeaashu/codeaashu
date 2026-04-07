@@ -6,16 +6,6 @@ look at you... you found
 <h1 align="center">The glitch in this fucking matrix.</h1>
 </div>
 
-<img align="right" src="https://repoxray.devdisplay.org/logo.png" width="90"/>
-
-### ✨ RepoXray  
-`Spend less time reading code, more time building.`  
-
-**Understand Any Codebase**  
-**X-Ray Any Repo, in Seconds.**  
-
-🔗 https://repoxray.devdisplay.org 
-
 ### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
 Professionally, an Entrepreneur
 
