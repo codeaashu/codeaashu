@@ -6,6 +6,11 @@ look at you... you found
 <h1 align="center">The glitch in this fucking matrix.</h1>
 </div>
 
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style: none; padding-left: 0;">
+        
 ### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
 Professionally, an Entrepreneur
 
@@ -16,6 +21,27 @@ Professionally, an Entrepreneur
 > I build dominant software/products through obsession and creative creation.
 
 > I sell urgency that creates a market to buy water in the middle of the sea.
+      </ul>
+    </td>
+<td align="center" valign="top" width="350">
+<h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
+
+<h4 align="center"><img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/><br>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h4>
+<a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a>
+</td>
+</tr>
+</table>
+
+<!--### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
+Professionally, an Entrepreneur
+
+> I solve expensive problems for those who don’t care about the price.
+
+> I design attraction that put wow factor in every business/person.
+  
+> I build dominant software/products through obsession and creative creation.
+
+> I sell urgency that creates a market to buy water in the middle of the sea.-->
 
 I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) that will brutally dominate in so many unfair and fucking ways. (32 delivered to clients, the rest are personal.)
 
