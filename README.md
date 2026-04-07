@@ -23,7 +23,7 @@ Professionally, an Entrepreneur
 > I sell urgency that creates a market to buy water in the middle of the sea.
       </ul>
     </td>
-<td align="center" valign="top" width="350">
+<td align="center" valign="top">
 <h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
 
 <h4 align="center"><img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/><br>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h4>
