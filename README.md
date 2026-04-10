@@ -96,7 +96,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
 - **Also Available for (full-time or part-time)** — For those who prioritize high-impact outcomes over price.
 - **Rapid prototyping & MVPs** — Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
-- **Writing Banger Articles** — On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
+- **Writing Banger Articles** — On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
 - **Judged & Mentored 15+ Tech Initiatives** — Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
 
 ---
@@ -112,7 +112,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - [How Dirty Money Actually Moves](https://medium.com/@warrioraashuu/the-big-lie-about-your-fucking-competition-f1a8b3573c36)
 
  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Click to read more bangers:**  
-[Medium](https://medium.com/@warrioraashuu) ▪︎ [Peerlist](https://peerlist.io/aashuu/articles) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
+[Medium](https://medium.com/@warrioraashuu) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
 
 ---
 
@@ -133,9 +133,6 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </a>
 <a href="https://www.linkedin.com/in/ashutoshkumaraashu/"> 
     <img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"  alt="Linkedin"/>
-</a>
-<a href="https://peerlist.io/aashuu"> 
-    <img src="https://img.shields.io/badge/Peerlist-00384d?style=for-the-badge&logo=peerlist&logoColor=white" title="Peerlist"  alt="Peerlist"/>
 </a>
 <a href="https://www.reddit.com/user/warrioraashuu/"> 
     <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" title="Reddit"  alt="Reddit"/>
