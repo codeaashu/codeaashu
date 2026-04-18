@@ -55,7 +55,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 
 ---
 
-### <img src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" width="16" height="16" style="vertical-align: middle;" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
+### <img src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" width="16" height="16" style="vertical-align: -3px;" /> Founder ✦ DevDisplay Ecosystem (Platform ▪︎ Labs ▪︎ Community)
 
 The First Global Platform for Developers to Fulfill All Their Tech Needs.
 
