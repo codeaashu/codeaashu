@@ -102,7 +102,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" alt="Man Juggling Light Skin Tone" width="25" height="25" /> What I'm Doing
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Juggling%20Light%20Skin%20Tone.png" width="20" style="vertical-align: middle;" />
+  What I'm Doing
+</h3>
 
 - **Living in the future** — Engineering software and tools to accelerate agentic engineering, physical AI, conversational AI, and Web3, making them faster, simpler, and accessible to everyone.
 - **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
@@ -113,7 +116,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Latest Banger Articles
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" width="20" style="vertical-align: middle;" />
+  Latest Banger Articles
+</h3>
 
 > ⚠️ The sharpest articles on the internet! Read at your own risk, this will rewire your mind with a banger. You won’t be the same after this.
 
