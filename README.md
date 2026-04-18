@@ -26,9 +26,7 @@ Professionally, an Entrepreneur
 <td align="center" valign="top">
 <h2 align="center"><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
 
-<h4 align="center"><img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/></h4>
-  
-  <br><h4 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h4>
+<h4 align="center"><img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/><br>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h4>
 <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a>
 </td>
 </tr>
