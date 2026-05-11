@@ -3,11 +3,11 @@
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
 Who the fuck i am?
-  
-  https://readme-typing-svg.demolab.com/demo/?font=&weight=700&color=39CDF7&center=true&vCenter=true&repeat=false&lines=SaaS+Product+Engineer;Creative+Designer
-  
+
 <h1 align="center">The glitch in this perfect matrix.</h1>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&pause=1000&color=39CDF7&center=true&vCenter=true&repeat=false&width=435&lines=SaaS+Product+Engineer;Creative+Designer)](https://git.io/typing-svg)
 
 <!--<table>
   <tr>
