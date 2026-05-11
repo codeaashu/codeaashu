@@ -3,7 +3,7 @@
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
 look at you... you found  
-<h1 align="center">The glitch in this fucking matrix.</h1>
+<h1 align="center">The glitch in this perfect matrix.</h1>
 </div>
 
 <!--<table>
@@ -11,7 +11,7 @@ look at you... you found
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
         
-### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
+### This is aashuu ✦ 
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
@@ -135,8 +135,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ---
 
 ## Philosophy
-> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle... Always remind yourself `अहमस्मि योधः`
-
+> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle...
 </br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
