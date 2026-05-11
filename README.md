@@ -7,7 +7,7 @@ Look at you... You found
 <h1 align="center">The glitch in this perfect matrix.</h1>
 </div>
 
-<!--<table>
+<table>
   <tr>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
@@ -39,9 +39,9 @@ Professionally, an Entrepreneur
   <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a>
 </td>
 </tr>
-</table>-->
+</table>
 
-### This is aashuu ✦ 
+<!--### This is aashuu ✦ 
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
@@ -52,7 +52,7 @@ Professionally, an Entrepreneur
 
 > I sell urgency that creates a market to buy water in the middle of the sea.
 
-I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) that will brutally dominate in so many unfair and fucking ways. (32 delivered to clients, the rest are personal.)
+I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) that will brutally dominate in so many unfair and fucking ways. (32 delivered to clients, the rest are personal.)-->
 
 ---
 
