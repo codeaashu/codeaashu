@@ -40,7 +40,7 @@ Professionally, an Entrepreneur
 </tr>
 </table>-->
 
-### This is aashuu ✦ 𝘈𝘴𝘩𝘶𝘵𝘰𝘴𝘩 𝘚𝘪𝘯𝘨𝘩
+### This is aashuu ✦ Ashutosh Singh
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
