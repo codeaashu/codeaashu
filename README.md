@@ -40,7 +40,7 @@ Professionally, an Entrepreneur
 </tr>
 </table>-->
 
-### This is aashuu ✦ 𝘱𝘰𝘭𝘺𝘮𝘢𝘵𝘩
+### This is aashuu ✦ 
 Professionally, an Entrepreneur
 
 > I solve expensive problems for those who don’t care about the price.
