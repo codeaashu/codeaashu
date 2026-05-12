@@ -57,7 +57,7 @@ I'm on a mission for the last 4 years to build my own ecosystem of every product
 ---
 
 <h3>
-  <img src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png/" width="18" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" width="18" style="vertical-align: middle;" />
   Founder ✦ DevDisplay (Social Platform ▪︎ AI Labs)
 </h3>
 
