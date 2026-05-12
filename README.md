@@ -36,7 +36,7 @@ Professionally, an Entrepreneur
     X-Ray Any Repo, in Seconds.
   </p>
 
-  <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a>
+  <a href="#"><strong>coming soon</strong></a>
 </td>
 </tr>
 </table>
@@ -74,8 +74,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/AAT.png" /> **[Agents Are Thinking](https://agents-are-thinking.aashuu.tech/)** - Animation effects for the agent's state.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](https://avsar.aashuu.tech/)** - The Intelligence System for Modern Events.
-- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray](https://repoxray.devdisplay.org/)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Coming Soon](https://repoxray.devdisplay.org/)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Quotee.png" /> **[Quotee](https://quotee.aashuu.tech/)** - Create quotes that hit.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before POW, study POF. Backed by $258.4B Burned Capital
