@@ -2,9 +2,9 @@
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
-Look at you... You found
 
-<h1 align="center">The glitch in this perfect matrix.</h1>
+
+<h1 align="center">Backed by obsession. Fueled by ice cream.</h1>
 </div>
 
 <table>
