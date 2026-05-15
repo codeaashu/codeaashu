@@ -2,7 +2,7 @@
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
-Fueled by icecream.
+Fueled By Icecream.
 
 <h1 align="center">Backed By Obsession.</h1>
 </div>
