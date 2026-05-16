@@ -5,7 +5,7 @@
 <!-- Fueled by icecream -->
 
 <!-- <h1 align="center">Backed By Obsession</h1> -->
-<h1 align="center">I code for icecream</h1>
+<h1 align="center">i code for icecream</h1>
 </div>
 
 <table>
