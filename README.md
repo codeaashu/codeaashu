@@ -2,9 +2,10 @@
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
 </p>
-Fueled by icecream
+<!-- Fueled by icecream -->
 
-<h1 align="center">Backed By Obsession</h1>
+<!-- <h1 align="center">Backed By Obsession</h1> -->
+<h1 align="center">I code for icecream</h1>
 </div>
 
 <table>
