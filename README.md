@@ -5,7 +5,7 @@
 <!-- Fueled by icecream -->
 
 <!-- <h1 align="center">Backed By Obsession</h1> -->
-<h1 align="center">i code for icecream <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Soft%20Ice%20Cream.webp" alt="Soft Ice Cream" width="25" height="25" /></h1>
+<h1 align="center">i c<>de for icecream <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Soft%20Ice%20Cream.webp" alt="Soft Ice Cream" width="25" height="25" /></h1>
 </div>
 
 <table>
