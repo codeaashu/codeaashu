@@ -26,7 +26,7 @@ Professionally, an Entrepreneur
       </ul>
 
 <td align="center" valign="top">
-  <h2><a href="https://repoxray.devdisplay.org/"><strong>RepoXray</strong></a></h2>
+  <h2><a href="#"><strong>RepoXray</strong></a></h2>
 
   <p align="center">
     <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo" style="display: block; margin: 0 auto;" />
@@ -76,8 +76,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ## Latest Build
 
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/AAT.png" /> **[Agents Are Thinking](https://agents-are-thinking.aashuu.tech/)** - Animation effects for the agent's state.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](https://avsar.aashuu.tech/)** - The Intelligence System for Modern Events.
-- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Coming Soon](https://repoxray.devdisplay.org/)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](#)** - The Intelligence System for Modern Events.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Coming Soon](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Quotee.png" /> **[Quotee](https://quotee.aashuu.tech/)** - Create quotes that hit.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before POW, study POF. Backed by $258.4B Burned Capital
@@ -137,7 +137,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 ---
 
 ## Philosophy
-> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war. So be a warrior and win your battle...
+> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war.
 </br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
