@@ -33,7 +33,7 @@ Professionally, an Entrepreneur
   </p>
 
   <p align="center">
-    Understand Any Codebase<br>
+    The Antivirus for Codebases.<br>
     X-Ray Any Repo, in Seconds.
   </p>
 
