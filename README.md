@@ -169,6 +169,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://www.figma.com/@aashuu"> 
     <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" title="Figma"  alt="Figma"/>
 </a>
+<a href="https://www.youtube.com/@warrioraashuu/"> 
+    <img src="https://img.shields.io/badge/Youtube-00384d?style=for-the-badge&logo=youtube&logoColor=white" title="YouTube"  alt="YouTube"/>
+</a>
 <a href="https://discord.com/channels/@warrioraashuu"> 
     <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
