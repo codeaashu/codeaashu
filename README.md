@@ -163,7 +163,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://www.instagram.com/warrioraashuu/"> 
     <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://in.pinterest.com/codeaashu/"> 
+<a href="https://in.pinterest.com/warrioraashuu/"> 
     <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" title="Pinterest"  alt="Pinterest"/>
 </a>
 <a href="https://www.figma.com/@aashuu"> 
