@@ -57,9 +57,8 @@ Professionally, an Entrepreneur
 
 I'm on a mission for the last 4 years to build my own ecosystem of every product or software that I need or use. Till now, I have built 50+ production-grade SaaS across every layer of the internet (Web2 ▪︎ Web3 ▪︎ AI) that will brutally dominate in so many unfair and fucking ways. (32 delivered to clients, the rest are personal.)-->
 
----
 
-<h3>
+<!--  <h3>
   <img src="https://raw.githubusercontent.com/codeaashu/DevDisplay/refs/heads/main/public/assets/DevDisplayLOGO/readmeicon.png" width="18" style="vertical-align: middle;" />
   Founder ✦ DevDisplay (Social Platform ▪︎ AI Labs)
 </h3>
@@ -68,7 +67,7 @@ Discover → Design → Develop → Display → Dominate
 
 Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong></a> ▪︎ <a href="https://www.devdisplay.org/"><strong>Website</strong></a>
 
-> 500+ Global Developers ▪︎ 23000+ Community
+> 500+ Global Developers ▪︎ 23000+ Community -->
 
 <!-- `<img width="100" height="28" alt="tryscribe" src="https://www.devdisplay.org/DDColorLOGO.png" />
 -->
