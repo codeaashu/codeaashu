@@ -16,15 +16,11 @@
       <ul style="list-style: none; padding-left: 0;">
         
 ### This is aashuu ✦ 
-Professionally, an Entrepreneur
+I'm an entrepreneur by purpose.
 
-> I solve expensive problems for those who don’t care about the price.
+> Professionally, I'm a software engineer who designs, and a design engineer who builds.
 
-> I design attraction that put wow factor in every business/person.
-  
-> I build dominant software/products through obsession and creative creation.
-
-> I sell urgency that creates a market to buy water in the middle of the sea.
+> NOTE: I cross the limits of possibility for those who don't care about the price.
       </ul>
 
 <td align="center" valign="top">
