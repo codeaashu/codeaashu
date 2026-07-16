@@ -18,7 +18,8 @@
 ### This is aashuu ✦ 
 I'm an entrepreneur by purpose.
 
-> Professionally, I'm a software engineer who designs, and a design engineer who builds.
+Professionally,
+> I'm a software engineer who designs, and a design engineer who builds.
 
 > Available for contract-based projects
 
