@@ -19,6 +19,7 @@
 I'm an entrepreneur by purpose.
 
 > Professionally, I'm a software engineer who designs, and a design engineer who builds.
+> And if you’re missing the WOW factor in your business, brand, software, and your personal presence, and struggling to fuck this fucking crowded world, then connect ✦ I’m here turning your presence into something that will brutally dominate and create its own space in so many unfair and fucking ways. Overall, I’m your WoW factor guy who puts the WoW factor into you, your brand and business.
 
 > NOTE: I cross the limits of possibility for those who don't care about the price.
       </ul>
