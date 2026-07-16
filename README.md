@@ -21,9 +21,9 @@ I'm an entrepreneur by purpose.
 Professionally,
 > I'm a software engineer who designs, and a design engineer who builds.
 
-> Available for contract-based projects
+> I cross the limits of possibility for those who don't care about the price.
 
-> NOTE: I cross the limits of possibility for those who don't care about the price.
+> Available for contract-based projects.
       </ul>
 
 <td align="center" valign="top">
