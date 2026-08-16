@@ -30,7 +30,7 @@ Professionally,
   <h2><a href="#"><strong>RepoXray</strong></a></h2>
 
   <p align="center">
-    <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo" style="display: block; margin: 0 auto;" />
+    <img src="https://repoxray.2clabs.tech/logo.png" width="80" height="80" alt="RepoXray Logo" style="display: block; margin: 0 auto;" />
   </p>
 
   <p align="center">
