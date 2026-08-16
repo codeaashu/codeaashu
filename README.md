@@ -21,8 +21,13 @@ I'm an entrepreneur by purpose.
 Professionally,
 > I'm a software engineer who designs, and a design engineer who builds.
 
-> I build tech businesses through SaaS products across every layer of the internet<br>
+> I build tech businesses through SaaS products across every layer of the internet <br>
 > ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+>
+<blockquote>
+I build tech businesses through SaaS products across every layer of the internet<br>
+( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+</blockquote>
       </ul>
 
 <td align="center" valign="top">
