@@ -35,8 +35,7 @@ I build tech businesses through SaaS products across every layer of the internet
   </p>
 
   <p align="center">
-    The Antivirus for Codebases.<br>
-    X-Ray Any Repo, in Seconds.
+    The X-Ray Intelligence Engine for Your Codebase.
   </p>
 
   <a href="#"><strong>coming soon</strong></a>
@@ -76,10 +75,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](#)** - The Intelligence System for Modern Events.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray](https://repoxray.2clabs.tech/)** - The X-Ray Intelligence Engine for Your Codebase.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/lucide.png" /> **[Lucide Motion](https://lucide-motion.aashuu.tech/)** - Animation for every Lucide icon.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/AAT.png" /> **[Agents Are Thinking](https://agents-are-thinking.aashuu.tech/)** - Animation effects for the agent's state.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](#)** - The Intelligence System for Modern Events.
-- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray - Coming Soon](#)** - Understand Any Codebase X-Ray Any Repo , in Seconds.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Quotee.png" /> **[Quotee](https://quotee.aashuu.tech/)** - Create quotes that hit.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds. (#1 on Peerlist)
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before POW, study POF. Backed by $258.4B Burned Capital
