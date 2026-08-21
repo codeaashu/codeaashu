@@ -75,7 +75,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 ## Latest Build
 
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR - Coming Soon](#)** - The Intelligence System for Modern Events.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR](https://www.aashuu.me/works/avsar)** - The Intelligence System for Modern Events.
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray](https://repoxray.2clabs.tech/)** - The X-Ray Intelligence Engine for Your Codebase.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/lucide.png" /> **[Lucide Motion](https://lucide-motion.aashuu.tech/)** - Animation for every Lucide icon.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/AAT.png" /> **[Agents Are Thinking](https://agents-are-thinking.aashuu.tech/)** - Animation effects for the agent's state.
