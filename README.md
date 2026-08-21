@@ -28,7 +28,7 @@ I build tech businesses through SaaS products across every layer of the internet
       </ul>
 
 <td align="center" valign="top">
-  <h2><a href="#"><strong>RepoXray</strong></a></h2>
+  <h2><a href="https://repoxray.2clabs.tech/"><strong>RepoXray</strong></a></h2>
 
   <p align="center">
     <img src="https://repoxray.2clabs.tech/logo.png" width="80" height="80" alt="RepoXray Logo" style="display: block; margin: 0 auto;" />
@@ -38,7 +38,7 @@ I build tech businesses through SaaS products across every layer of the internet
     The X-Ray Intelligence Engine for Your Codebase.
   </p>
 
-  <a href="#"><strong>coming soon</strong></a>
+  <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Code</strong></a>
 </td>
 </tr>
 </table>
