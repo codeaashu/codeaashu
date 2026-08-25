@@ -38,7 +38,7 @@ I build tech businesses through SaaS products across every layer of the internet
     The X-Ray Intelligence Engine for Your Codebase.
   </p>
 
-  <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Code</strong></a>
+  <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Codebase</strong></a>
 </td>
 </tr>
 </table>
