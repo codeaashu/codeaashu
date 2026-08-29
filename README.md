@@ -111,11 +111,11 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - **Available for contract-based projects** — For brands, business agencies, enterprises, founders, and professionals to create a WoW factor by delivering AI-powered SaaS products (web apps), creative design, attractive and repetitive branding, unfair and dark growth strategies, AI integration, decentralized AI infrastructure, and scalable architected systems. 
 - **Also Available for (full-time or part-time)** — For those who prioritize high-impact outcomes over price.
 - **Rapid prototyping & MVPs** — Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
-- **Writing Banger Articles** — On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
+- **Writing Banger Articles** — On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [aashuu](https://www.aashuu.me/articles) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7469726294860017665) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
 - **Judged & Mentored 15+ Tech Initiatives** — Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
 
 ---
-
+<!--
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" width="20" style="vertical-align: middle;" />
   Latest Banger Articles
@@ -132,7 +132,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
  **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" /> Click to read more bangers:**  
 [Medium](https://medium.com/@warrioraashuu) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts) ▪︎ [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7432462296746184704) 
 
----
+--- -->
 
 ## Philosophy
 > Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war.
