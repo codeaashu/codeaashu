@@ -138,7 +138,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 > Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war.
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) -->
 
 
 <p align="center">
