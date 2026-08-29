@@ -191,7 +191,7 @@ Holder of ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) 
 
 </div>
 
-
+---
 
 <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
