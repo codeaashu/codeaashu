@@ -22,6 +22,8 @@ Professionally,
 > I'm a software engineer who designs, and a design engineer who builds.
 
 > I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+> For work ✦ aashuu.me or Connect on 𝕏 [@warrioraashuu](https://x.com/warrioraashuu)
       </ul>
 
 <td align="center" valign="top">
