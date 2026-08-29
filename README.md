@@ -140,6 +140,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) -->
 
+---
 
 <p align="center">
   <img src="assets/hi.gif" width="100" /> </br></br>
@@ -190,7 +191,7 @@ Holder of ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) 
 
 </div>
 
----
+
 
 <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
