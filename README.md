@@ -23,7 +23,7 @@ Professionally,
 
 > I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
 
-> For work ✦ aashuu.me or Connect on 𝕏 [@warrioraashuu](https://x.com/warrioraashuu)
+> For work ✦ [aashuu.me](https://www.aashuu.me/) or Connect on 𝕏 [@warrioraashuu](https://x.com/warrioraashuu)
       </ul>
 
 <td align="center" valign="top">
