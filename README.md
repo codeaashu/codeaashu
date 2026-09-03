@@ -38,6 +38,7 @@ Professionally,
   </p>
 
   <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Codebase</strong></a>
+  Spotlight of the week
 </td>
 </tr>
 </table>
