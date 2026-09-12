@@ -77,13 +77,13 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/avsarlogo.png" /> **[AVSAR](https://www.aashuu.me/works/avsar)** - The Intelligence System for Modern Events.
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/repoxraylogo.png" /> **[RepoXray](https://repoxray.2clabs.tech/)** - The X-Ray Intelligence Engine for Your Codebase.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/lucide.png" /> **[Lucide Motion](https://lucide-motion.aashuu.tech/)** - Animation for every Lucide icon.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/AAT.png" /> **[Agents Are Thinking](https://agents-are-thinking.aashuu.tech/)** - Animation effects for the agent's state.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Quotee.png" /> **[Quotee](https://quotee.aashuu.tech/)** - Create quotes that hit.
-- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.tech/)** - Clean. Detect. Generate. In Seconds.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/lucide.png" /> **[Lucide Motion](https://lucide-motion.aashuu.me/)** - Animation for every Lucide icon.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/AAT.png" /> **[Agents Are Thinking](https://agents-are-thinking.aashuu.me/)** - Animation effects for the agent's state.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/Quotee.png" /> **[Quotee](https://quotee.aashuu.me/)** - Create quotes that hit.
+- <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/enough.webp" /> **[Enough](https://enough.aashuu.me/)** - Clean. Detect. Generate. In Seconds.
 - <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/POFicon.png" /> **[Proof of Failure](https://proofoffailure.works/)** - Before POW, study POF. Backed by $258.4B Burned Capital
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/safenote.png" /> **[Safenote](https://www.safenote.me/)** - The safest workspace to store and share your private notes & messages!
-- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/antriviewicon.png" /> **[Antriview](https://antriview.systems/)** - Your AI Interviewer That Prepares You Better Than Any Human Can.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/antriviewicon.png" /> **[Antriview](https://antriview.aashuu.me/)** - Your AI Interviewer That Prepares You Better Than Any Human Can.
 - <img width="20" height="24" alt="tryscribe" src="./assets/Buildicon/NextjsAPIDecorators.png" /> **[NextJS API Decorators](https://nextjs-api-decorators.vercel.app/)** - Collection of clean, typed API routes with built-in validation and request transformation
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/CodingAura.png" /> **[Coding Aura](https://codingaura.vercel.app/)** - Flex Your Coding Journey on Social. Generate. Download. Share.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/GitHubLegacy.png" /> **[GitHub Legacy](https://github-legacy.vercel.app/)** - Transform your GitHub journey into a professional resume in seconds!
