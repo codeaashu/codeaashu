@@ -88,7 +88,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/CodingAura.png" /> **[Coding Aura](https://codingaura.vercel.app/)** - Flex Your Coding Journey on Social. Generate. Download. Share.
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/GitHubLegacy.png" /> **[GitHub Legacy](https://github-legacy.vercel.app/)** - Transform your GitHub journey into a professional resume in seconds!
 - <img width="14" height="24" alt="tryscribe" src="./assets/Buildicon/ResumeBuilder.png" /> **[Resume Builder](https://resume-builder-pro.vercel.app/)** - Create your Resume in minutes using ATS proof template!
-- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://helpmate-ai.vercel.app/)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
+- <img width="16" height="24" alt="tryscribe" src="./assets/Buildicon/Helpmate-AI.png" /> **[Helpmate AI](https://ai.google.dev/competition/projects/helpmate-ai)** - #1 ChatBot of Gemini API (Featured in Google AI developer competition.
 
 ---
 
