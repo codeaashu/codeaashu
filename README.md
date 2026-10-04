@@ -16,7 +16,7 @@
       <ul style="list-style: none; padding-left: 0;">
         
 ### This is aashuu ✦ 
-I'm an entrepreneur by purpose.
+Applied AI Engineer ▪︎ Researcher in Emerging Technologies ▪︎ Writer
 
 Professionally,
 > I'm a software engineer who designs, and a design engineer who builds.
