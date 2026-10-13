@@ -213,7 +213,7 @@ Holder of ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) 
 </table>
 
 <div align="center">
-  <video src="assets/vid.mov" width="200" autoplay loop muted playsinline></video>
+  <img src="assets/vir.gif" width="200" />
    <!--<img src="assets/githubgif.gif" width="200" />-->
 </div>
 
