@@ -212,11 +212,11 @@ Holder of ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) 
   </tr>
 </table>
 
-
+   <!--
 <p align="center">
   <img src="assets/vid.gif" />
 </p>
-   <!--<img src="assets/githubgif.gif" width="200" />-->
+<img src="assets/githubgif.gif" width="200" />-->
 
 
 
