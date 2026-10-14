@@ -194,6 +194,41 @@ Holder of ![GitHub User's stars](https://img.shields.io/github/stars/codeaashu) 
 
 ---
 
+<table>
+  <tr>
+    <!-- LEFT SIDE: Coding GIF + GitHub Stars -->
+
+  <td width="60%" align="center" valign="middle">
+      <img src="assets/hi.gif" width="100" alt="Hi GIF" />
+      <br /><br />
+
+<a href="https://x.com/warrioraashuu"><img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/ashutoshkumar­aashu/"><img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.reddit.com/user/warrioraashuu/"><img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+<a href="https://medium.com/@warrioraashuu"><img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.instagram.com/warrioraashuu/"><img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://in.pinterest.com/warrioraashuu/"><img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+<a href="https://www.figma.com/@aashuu"><img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+<a href="https://www.youtube.com/@warrioraashuu/"><img src="https://img.shields.io/badge/Youtube-00384d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.com/channels/@warrioraashuu"><img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/warrioraashuu"><img src="https://img.shields.io/badge/Telegram-00384d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:hellow.ashutosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.devdisplay.org/profile/codeaashu"><img src="https://img.shields.io/badge/Devdisplay-00384d?style=for-the-badge&logo=devdisplay&logoColor=white" alt="DevDisplay" /></a>
+    </td>
+
+  <td width="40%" align="center" valign="middle">
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+      <br /><br />
+      Holder of
+      <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" />
+      Across Projects.
+    </td>
+    
+  </tr>
+</table>
+
+---
+
 <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
     <!-- Left Side -->
