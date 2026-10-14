@@ -135,12 +135,12 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 --- -->
 
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) -->
+
+
 ## Collection worth exploring
 > ✦ [aashuu.me/collection](https://www.aashuu.me/collection)
 
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) -->
-
----
 
 <table>
   <tr>
@@ -150,8 +150,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <br /><br />
 
 <a href="https://x.com/warrioraashuu"><img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/ashutoshkumar­aashu/"><img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.reddit.com/user/warrioraashuu/"><img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+<a href="https://www.linkedin.com/in/warrioraashuu/"><img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.reddit.com/user/warrior_aashuu/"><img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
 <a href="https://medium.com/@warrioraashuu"><img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://www.instagram.com/warrioraashuu/"><img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://in.pinterest.com/warrioraashuu/"><img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
@@ -179,7 +179,6 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
-    <!-- Left Side -->
   <td width="40%" align="center" valign="middle">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
   <br /><br />
