@@ -1,6 +1,7 @@
 <div align="center">
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=codeaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
+<br>Holder of <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" /> Across Projects.  
 </p>
 
 
@@ -173,7 +174,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </table>
 
 
-<table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
+<!-- <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
   <td width="40%" align="center" valign="middle">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
@@ -184,7 +185,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
     </td>
 
   </tr>
-</table>
+</table> -->
 
    <!--
 <p align="center">
