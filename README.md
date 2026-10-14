@@ -145,11 +145,10 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 <table>
   <tr>
-    <!-- LEFT SIDE: Coding GIF + GitHub Stars -->
 
   <td width="60%" align="center" valign="middle">
-      <img src="assets/hi.gif" width="100" alt="Hi GIF" />
-      <br /><br />
+  <img src="assets/hi.gif" width="100" alt="Hi GIF" />
+  <br /><br />
 
 <a href="https://x.com/warrioraashuu"><img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/ashutoshkumar­aashu/"><img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -165,23 +164,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://www.devdisplay.org/profile/codeaashu"><img src="https://img.shields.io/badge/Devdisplay-00384d?style=for-the-badge&logo=devdisplay&logoColor=white" alt="DevDisplay" /></a>
     </td>
 
-  <td width="40%" align="center" valign="middle">
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
-      <br /><br />
-      Holder of
-      <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" />
-      Across Projects.
-    </td>
-    
-  </tr>
-</table>
-
----
-
-<table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
-  <tr>
     <!-- Left Side -->
-    <td align="center" style="padding: 20px; width: 70%;">
+  <td align="center" style="padding: 20px; width: 70%;">
       <p><strong>Invited you to be part of a global developer vision</p>
       <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
       <br><br>
@@ -193,6 +177,23 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
     <td align="center" style="padding: 20px; width: 30%;">
       <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" alt="Logo" height="80" />
     </td>
+        
+  </tr>
+</table>
+
+---
+
+<table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
+  <tr>
+    <!-- Left Side -->
+  <td width="40%" align="center" valign="middle">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+  <br /><br />
+      Holder of
+      <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" />
+      Across Projects.
+    </td>
+
   </tr>
 </table>
 
