@@ -135,9 +135,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 
 --- -->
 
-## Philosophy
-> Life is a battlefield. You can’t find peace without battle, because the path to peace is the last door to war.
-</br>
+## Collection worth exploring
+> ✦ [aashuu.me/collection](https://www.aashuu.me/collection)
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true) -->
 
@@ -146,9 +145,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <table>
   <tr>
 
-  <td width="60%" align="center" valign="middle">
-  <img src="assets/hi.gif" width="100" alt="Hi GIF" />
-  <br /><br />
+<td width="60%" align="center" valign="middle">
+<img src="assets/hi.gif" width="100" alt="Hi GIF" />
+<br /><br />
 
 <a href="https://x.com/warrioraashuu"><img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/ashutoshkumar­aashu/"><img src="https://img.shields.io/badge/Linkedin-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -162,9 +161,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 <a href="https://t.me/warrioraashuu"><img src="https://img.shields.io/badge/Telegram-00384d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:hellow.ashutosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.devdisplay.org/profile/codeaashu"><img src="https://img.shields.io/badge/Devdisplay-00384d?style=for-the-badge&logo=devdisplay&logoColor=white" alt="DevDisplay" /></a>
-    </td>
+</td>
 
-    <!-- Left Side -->
   <td align="center" style="padding: 20px; width: 70%;">
       <p><strong>Invited you to be part of a global developer vision</p>
       <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
@@ -172,7 +170,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
       <a href="https://www.devdisplay.org/" target="_blank">
         <img src="https://img.shields.io/badge/Add%20Your%20Profile-007BFF?style=for-the-badge&logo=devdotto&logoColor=white" alt="Add Your Profile"/>
       </a>
-    </td>
+  </td>
         
   </tr>
 </table>
