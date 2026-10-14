@@ -173,7 +173,8 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </table>
 
 <p align="center">
-Holder of <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" /> Across Projects.  
+<img src="assets/githubgif.gif" width="200" />
+<br>Holder of <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" /> Across Projects.  
 </p>
 
 <!-- <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
