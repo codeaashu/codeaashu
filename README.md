@@ -114,9 +114,9 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 - **Rapid prototyping & MVPs** — Deliver in days, not months (web ▪︎ apps ▪︎ AI ▪︎ SaaS ▪︎ systems ▪︎ design ▪︎ growth)
 - **Writing Banger Articles** — On technology, internet, AI, the future, unfair advantage, psychology, money, power, obsession, pattern recognition, and dark secrets & strategies to dominate anything, engineered to shift perspective and create leverage ▪︎ All articles available on [aashuu](https://www.aashuu.me/articles) ▪︎ [Medium](https://medium.com/@warrioraashuu) ▪︎ [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7469726294860017665) ▪︎ [Substack](https://substack.com/@warrioraashuu/posts)
 - **Judged & Mentored 15+ Tech Initiatives** — Across hackathons, startups, idea pitches, and open-source programs & ecosystems.
-- **Collection worth exploring** — ✦ [aashuu.me/collection](https://www.aashuu.me/collection)
+- **Collection worth exploring** — [aashuu.me/collection](https://www.aashuu.me/collection)
 
----
+
 <!--
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" width="20" style="vertical-align: middle;" />
@@ -172,7 +172,6 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
   </tr>
 </table>
 
----
 
 <table align="center" width="100%" style="border: 1px solid #444; border-radius: 12px; background-color: #f9f9f9;">
   <tr>
