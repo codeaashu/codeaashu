@@ -172,6 +172,15 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://commit-history.com/codeaashu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/codeaashu?theme=dark" />
+      <img alt="codeaashu's commit history" src="https://commit-history.com/embed/codeaashu" />
+    </picture>
+  </a>
+</div>
+
 <p align="center">
 <img src="assets/githubgif.gif" width="200" />
 <br>Holder of <img src="https://img.shields.io/github/stars/codeaashu" alt="GitHub Stars" /> Across Projects.  
