@@ -161,7 +161,7 @@ Organization ✦ <a href="https://github.com/devdisplay"><strong>GitHub</strong>
 </td>
 
   <td align="center" style="padding: 20px; width: 70%;">
-      <p><strong>Invited you to be part of a global developer vision</p>
+      <p><strong>Invited you to be part of the First Display for Developers.</p>
       <img src="https://www.devdisplay.org/DDColorLOGO.png" alt="DevDisplay Logo" height="40" />
       <br><br>
       <a href="https://www.devdisplay.org/" target="_blank">
