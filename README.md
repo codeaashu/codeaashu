@@ -19,7 +19,7 @@
 A software engineer who designs, and a design engineer who builds.
 
 Professionally,
-> AI Engineer ▪︎ Researcher in Emerging Technologies ▪︎ Writer
+> AI Software Engineer ▪︎ Researcher in Emerging Technologies ▪︎ Writer
 
 > I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
 
