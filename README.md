@@ -37,9 +37,10 @@ Professionally,
     The X-Ray Intelligence Engine for Your Codebase.
   </p>
 
-  <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Codebase</strong></a>ᴬᴰ
+  <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Codebase</strong></a>
 
 </td>
+ᴬᴰ
 </tr>
 </table>
 
