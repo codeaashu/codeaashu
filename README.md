@@ -27,7 +27,7 @@ Professionally,
       </ul>
 
 <td align="center" valign="top">
-  <h2><a href="https://repoxray.2clabs.tech/"><strong>RepoXray</strong></a></h2>
+  <h2><a href="https://repoxray.2clabs.tech/"><strong>RepoXray</strong></a></h2>ᴬᴰ
 
   <p align="center">
     <img src="https://repoxray.2clabs.tech/logo.png" width="80" height="80" alt="RepoXray Logo" style="display: block; margin: 0 auto;" />
