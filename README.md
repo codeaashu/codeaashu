@@ -38,9 +38,8 @@ Professionally,
   </p>
 
   <a href="https://repoxray.2clabs.tech/"><strong>X-Ray Your Codebase</strong></a>
-
-</td>
 ᴬᴰ
+</td>
 </tr>
 </table>
 
